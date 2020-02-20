@@ -9,6 +9,7 @@
   - [APIs](#apis)
   - [Command Line](#command-line)
   - [Data](#data)
+  - [Hardware](#hardware)
   - [Mobile Apps](#mobile-apps)
   - [Web Apps](#web-apps)
   
@@ -32,6 +33,10 @@
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - The Catechism of the Catholic Chruch in JSON.
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [romcal](https://github.com/romcal/romcal) - The Liturgical Calendar used by the Roman Rite (Western Church) for Node JS v6 and above.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator
+
+## Hardware
+
+* [![C](https://img.shields.io/badge/language-C-gray)](#) [Catholic Lectionary on ESP8266](https://github.com/plishman/Catholic-Lectionary-on-ESP8266) - The Roman Catholic Lectionary, Liturgical Calendar and Feast Days on ESP8266 with Waveshare 2.7" or 4.2" red/black display, generic SD card reader and DS3231 clock IC.
 
 ## Mobile-Apps
 
