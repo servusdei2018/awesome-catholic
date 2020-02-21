@@ -7,6 +7,7 @@
  ## Contents
 
   - [APIs](#apis)
+  - [Apps](#apps)
   - [Command Line](#command-line)
   - [Data](#data)
   - [Hardware](#hardware)
@@ -19,6 +20,10 @@
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Get mass time in your country
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Tamil Bible Database in MySQL with PHP API
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
+
+## Apps
+
+* [![Swift](https://img.shields.io/badge/language-Swift-orange)](#) [Lectionary](https://github.com/Dev1an/Lectionary) - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
 
 ## Command Line
 
