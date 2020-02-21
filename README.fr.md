@@ -50,7 +50,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 
 ## Web-Apps
 
-* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [missal.io](https://github.com/benyanke/missal.io) - A Catholic Sunday hand missal web app for the Traditional Latin Mass
-* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
-* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [missal-1962](https://github.com/mmolenda/Missal1962) - Python/Flask API, serving calendar and propers for a given day, and Bootstrap UI consuming and presenting the data.
-* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [missal.io](https://github.com/benyanke/missal.io) - Une application web sur le missile à main catholique du dimanche pour la messe latine traditionnelle
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Récupère les lectures de masse quotidiennes de l'API EWTN, les prières catholiques quotidiennes et Connaissez votre foi; comprend des prières catholiques.
+* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [missal-1962](https://github.com/mmolenda/Missal1962) - API Python / Flask, servant le calendrier et les propers pour un jour donné, et l'interface utilisateur Bootstrap consommant et présentant les données.
+* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - Un calendrier pour le rite tridentin. Démo sur http://theochrone.fr
