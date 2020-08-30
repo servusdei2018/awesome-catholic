@@ -31,6 +31,7 @@
 
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [lectionarium](https://github.com/davidrmcharles/lectionarium) - A tool for studying Ecclesiastical Latin
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [calrom](https://github.com/calendarium-romanum/calrom) - Liturgical calendar (Ordinary Form)
+* [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 
 ## Data
 
