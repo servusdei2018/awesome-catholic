@@ -24,6 +24,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 ## Applications
 
 * [![Swift](https://img.shields.io/badge/language-Swift-orange)](#) [Lectionary](https://github.com/Dev1an/Lectionary) - Une application magnifiquement conçue pour afficher les lectures quotidiennes dans différentes langues. Peut exporter JSON pour créer des brochures pour Nightfever Leuven.
+* [![C](https://img.shields.io/badge/language-C-gray)](#) [gregorio](https://github.com/gregorio-project/gregorio) - Gregorio est une application logicielle permettant de graver des partitions de chant grégorien sur un ordinateur.
 
 ## Ligne-de-Commande
 
