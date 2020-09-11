@@ -26,6 +26,7 @@
 ## Apps
 
 * [![Swift](https://img.shields.io/badge/language-Swift-orange)](#) [Lectionary](https://github.com/Dev1an/Lectionary) - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
+* [![C](https://img.shields.io/badge/language-C-gray)](#) [gregorio](https://github.com/gregorio-project/gregorio) - Gregorio is a software application for engraving Gregorian Chant scores on a computer.
 
 ## Command Line
 
