@@ -3,8 +3,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Une liste organisée de superbes projets, bibliothèques et logiciels catholiques.
- 
- ## Contents
+
+[En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusDei2018/awesome-catholic/blob/master/README.es.md)
+
+## Contents
 
   - [APIs](#apis)
   - [Applications](#applications)
@@ -13,7 +15,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
   - [Matériel](#matériel)
   - [Application Mobile](#application-mobile)
   - [Web Apps](#web-apps)
-  
+
 ## APIs
 
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) - Le générateur de lorem ipsum le plus sacré sur Internet. Utilisez en ligne ou avec l'API.

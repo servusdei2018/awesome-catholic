@@ -2,11 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- A curated list of awesome Catholic projects, libraries and software.
+A curated list of awesome Catholic projects, libraries and software.
  
- [En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md)
+[En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusDei2018/awesome-catholic/blob/master/README.es.md)
  
- ## Contents
+## Contents
 
   - [APIs](#apis)
   - [Apps](#apps)
