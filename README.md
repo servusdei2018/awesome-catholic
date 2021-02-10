@@ -60,3 +60,9 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [missal-1962](https://github.com/mmolenda/Missal1962) - Python/Flask API, serving calendar and propers for a given day, and Bootstrap UI consuming and presenting the data.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
+
+## Related Awesome Lists
+
+- [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - A curated list of awesome resources and websites about the Bible and topics related to it.
+- [Awesome Theology](https://github.com/historical-theology/awesome-theology) - A curated list of open source software for Catholic theology.
+
