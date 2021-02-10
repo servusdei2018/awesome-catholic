@@ -23,6 +23,8 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Get mass time in your country
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Tamil Bible Database in MySQL with PHP API
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
+* [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
+* [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
 
 ## Apps
 
@@ -54,6 +56,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 * [![Java](https://img.shields.io/badge/language-Java-orange)](#) [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - A Catholic diocese app for android.
 * [![Objective C](https://img.shields.io/badge/language-Objective_C-blue)](#) [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS.
+* [![Dart](https://img.shields.io/badge/language-Dart-lightblue)](#) [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app to count daily recitations of the St. Andrew novena prayer, 15 times daily.
 
 ## Web-Apps
 
@@ -63,6 +66,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Display the Ember Days for a given year.
 
 ## Related-Awesome-Lists
 

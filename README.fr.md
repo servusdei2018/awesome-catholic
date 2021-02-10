@@ -23,6 +23,8 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Obtenez du temps de masse dans votre pays
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Base de données de la Bible tamoule dans MySQL avec API PHP
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - API RESTful fournissant des données de calendrier d'église catholique romaine pour vos applications
+* [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Un script PHP qui générera le calendrier liturgique pour une année donnée, basé sur le calendrier général romain, calculant les festivités mobiles et la préséance des solennités, des fêtes et des mémoriaux.
+* [AELF](https://api.aelf.org/) - Une API française pour la liturgie des heures.
 
 ## Applications
 
@@ -54,6 +56,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 
 * [![Java](https://img.shields.io/badge/language-Java-orange)](#) [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - Une application du diocèse catholique pour Android.
 * [![Objective C](https://img.shields.io/badge/language-Objective_C-blue)](#) [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Une application du diocèse catholique pour iOS.
+* [![Dart](https://img.shields.io/badge/language-Dart-lightblue)](#) [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app pour compter les récitations quotidiennes de la prière de la neuvaine de Saint-André, 15 fois par jour.
 
 ## Web-Apps
 
@@ -63,6 +66,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - Un calendrier pour le rite tridentin. Démo sur http://theochrone.fr
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Répartition de Pâques par date à travers les années, visualisée.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - Une application Web progressive conçue pour aider les catholiques romains à se préparer au sacrement de la confession en examinant leur conscience.
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Afficher les jours de braise pour une année donnée.
 
 ## Listes-Associées
 
