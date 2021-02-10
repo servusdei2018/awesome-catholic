@@ -3,9 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Una lista curada de increíbles proyectos católicos, bibliotecas y software.
- 
+
 [En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusDei2018/awesome-catholic/blob/master/README.es.md)
- 
+
 ## Contenido
 
   - [API](#api)
@@ -15,7 +15,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
   - [Hardware](#hardware)
   - [Aplicaciones móviles](#aplicaciones-móviles)
   - [Aplicaciones web](#aplicaciones-web)
-  
+
 ## API
 
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) - El generador de lorem ipsum más sagrado de Internet. Úselo en línea o con API.
@@ -60,4 +60,5 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Obtiene lecturas diarias de la misa de EWTN API, oraciones católicas diarias y Know your Faith; incluye oraciones católicas.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [missal-1962](https://github.com/mmolenda/Missal1962) - Python / Flask API, que sirve el calendario y los propios para un día determinado, y la interfaz de usuario de Bootstrap consume y presenta los datos.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - Un calendario para el rito tridentino. Demo en http://theochrone.fr
-
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)(#) [Easter dates](https://easter-dates.gavinr.com/) - Distribución de la Pascua por fecha a lo largo de los años, visualizada.
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)(#) [Confessit](https://github.com/kas-catholic/confessit-web) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a prepararse para el sacramento de la confesión examinando su conciencia.

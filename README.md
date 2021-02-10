@@ -3,9 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Catholic projects, libraries and software.
- 
+
 [En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusDei2018/awesome-catholic/blob/master/README.es.md)
- 
+
 ## Contents
 
   - [APIs](#apis)
@@ -15,7 +15,7 @@ A curated list of awesome Catholic projects, libraries and software.
   - [Hardware](#hardware)
   - [Mobile Apps](#mobile-apps)
   - [Web Apps](#web-apps)
-  
+
 ## APIs
 
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) - The holiest lorem ipsum generator on the internet. Use online, or with API.
@@ -52,7 +52,7 @@ A curated list of awesome Catholic projects, libraries and software.
 ## Mobile-Apps
 
 * [![Java](https://img.shields.io/badge/language-Java-orange)](#) [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - A Catholic diocese app for android.
-* [![Objective C](https://img.shields.io/badge/language-Objective_C-blue)](#) [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS. 
+* [![Objective C](https://img.shields.io/badge/language-Objective_C-blue)](#) [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS.
 
 ## Web-Apps
 
@@ -60,3 +60,5 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [missal-1962](https://github.com/mmolenda/Missal1962) - Python/Flask API, serving calendar and propers for a given day, and Bootstrap UI consuming and presenting the data.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)(#) [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)(#) [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
