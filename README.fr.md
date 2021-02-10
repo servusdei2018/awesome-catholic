@@ -15,6 +15,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
   - [Matériel](#matériel)
   - [Application Mobile](#application-mobile)
   - [Web Apps](#web-apps)
+  - [Listes-Associées](#listes-associées)
 
 ## APIs
 
@@ -62,3 +63,8 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - Un calendrier pour le rite tridentin. Démo sur http://theochrone.fr
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Répartition de Pâques par date à travers les années, visualisée.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - Une application Web progressive conçue pour aider les catholiques romains à se préparer au sacrement de la confession en examinant leur conscience.
+
+## Listes-Associées
+
+- [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - Une liste organisée de ressources et de sites Web impressionnants sur la Bible et les sujets qui y sont liés.
+- [Awesome Theology](https://github.com/historical-theology/awesome-theology) - Une liste organisée de logiciels open source pour la théologie catholique.
