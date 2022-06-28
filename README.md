@@ -72,3 +72,4 @@ A curated list of awesome Catholic projects, libraries and software.
 
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - A curated list of awesome resources and websites about the Bible and topics related to it.
 - [Awesome Theology](https://github.com/historical-theology/awesome-theology) - A curated list of open source software for Catholic theology.
+- [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) - List of software related to liturgical calendar computations.
