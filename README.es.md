@@ -67,6 +67,9 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Distribución de la Pascua por fecha a lo largo de los años, visualizada.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a prepararse para el sacramento de la confesión examinando su conciencia.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Muestra los días de ascuas de un año determinado.
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [holydemia.com](https://github.com/benyanke/missal.io) - Una aplicación web católica de aprendizaje online sobre múltiples temas como apologética, música, sanación, entre otros.
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [matercoeli.com](https://www.matercoeli.com/) - Una aplicación web católica que acompaña la consagración a la Virgen María a través del Tratado de la Verdadera Devoción a la Santísima Virgen de San Luis María Grignion de Montfort.
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [camijoma.com](https://github.com/dimconex-media/camijoma) - Una aplicación web católica con frases extraídas de Camino, un libro de San Josemaría Escrivá, que te ayudarán a discernir lo que Dios quiere de ti hoy.
 
 ## Listas-Relacionadas
 
