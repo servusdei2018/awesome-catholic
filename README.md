@@ -67,6 +67,9 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Display the Ember Days for a given year.
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [holydemia.com](https://www.holydemia.com) - An e-learning platform about different catholic topics like apologetics, music, healing, prayer, etc.
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [matercoeli.com](https://www.matercoeli.com/) - A web app that helps you consecrate to Mary via Saint Louis Mary Grignion of Montfort.
+* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [camijoma.com](https://github.com/dimconex-media/camijoma) - A web app with phrases extracted from Saint Josemaría Escrivá de Balaguer's "The Way" with the purpose of helping understand God's purpose for you today.
 
 ## Related-Awesome-Lists
 
