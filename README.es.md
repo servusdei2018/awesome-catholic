@@ -40,7 +40,6 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 ## Datos
 
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Las obras completas de Santo Tomás de Aquino
-* [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [divinum-officium](https://github.com/Geremia/divinum-officium) - El oficio divino tradicional.
 * [![Go](https://img.shields.io/badge/language-Go-cyan)](#) [romanus](https://github.com/borderstech/romanus) - Todo el Catecismo Romano del Concilio de Trento
 * [![Go](https://img.shields.io/badge/language-Go-cyan)](#) [vulgata](https://github.com/borderstech/vulgata) - La Santa Biblia con los textos en inglés de Douay-Rheims y en latín de Clementina Vulgata
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - El Catecismo de la Iglesia Católica en JSON.
@@ -61,6 +60,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 ## Aplicaciones-web
 
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [missal.io](https://github.com/benyanke/missal.io) - Una aplicación web católica de misal de mano dominical para la misa tradicional en latín
+* [![HTML](https://img.shields.io/badge/language-Perl-blue)](#) [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - El oficio divino tradicional.
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Obtiene lecturas diarias de la misa de EWTN API, oraciones católicas diarias y Know your Faith; incluye oraciones católicas.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [missal-1962](https://github.com/mmolenda/Missal1962) - Python / Flask API, que sirve el calendario y los propios para un día determinado, y la interfaz de usuario de Bootstrap consume y presenta los datos.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [theocrone](https://github.com/paucazou/theochrone) - Un calendario para el rito tridentino. Demo en http://theochrone.fr
