@@ -25,6 +25,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - API RESTful que proporciona datos de calendario de la iglesia católica romana para sus aplicaciones
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Un script PHP que generará el calendario litúrgico para un año determinado, basado en el Calendario General Romano, calculando las festividades móviles y la precedencia de solemnidades, fiestas y memoriales.
 * [AELF](https://api.aelf.org/) - Una API francesa para la Liturgia de las Horas.
+* [![Kotlin](https://img.shields.io/badge/language-Kotlin-red)](#) [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata es un proyecto RESTful API que sirve principalmente a la Vulgata latina original (✝️ Biblia Sacra Vulgata) y su traducción al inglés - Versión de dominio público católico (CPDV) con notas de estudio.
 
 ## Aplicaciones
 
@@ -46,6 +47,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [romcal](https://github.com/romcal/romcal) - El Calendario Litúrgico utilizado por el Rito Romano (Iglesia Occidental) para Node JS v6 y superior.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano
 * [![TEX](https://img.shields.io/badge/language-TEX-green)](#) [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Edición Vaticana Graduale Romanum reescrito en Gregorio 4
+* [![JSON](https://img.shields.io/badge/language-JSON-orange)](#) [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
 
 ## Hardware
 
