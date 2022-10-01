@@ -25,6 +25,8 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
+* [![Kotlin](https://img.shields.io/badge/language-Kotlin-red)](#) [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata is a RESTful API project primarily serving the Original Latin Vulgate ( ✝️ Biblia Sacra Vulgata) and its English Translation - Catholic Public Domain Version (CPDV) with study notes.
+
 
 ## Apps
 
@@ -46,6 +48,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [romcal](https://github.com/romcal/romcal) - The Liturgical Calendar used by the Roman Rite (Western Church) for Node JS v6 and above.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator
 * [![TEX](https://img.shields.io/badge/language-TEX-green)](#) [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4
+* [![JSON](https://img.shields.io/badge/language-JSON-orange)](#) [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
 
 ## Hardware
 

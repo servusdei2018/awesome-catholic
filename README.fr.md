@@ -25,6 +25,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - API RESTful fournissant des données de calendrier d'église catholique romaine pour vos applications
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Un script PHP qui générera le calendrier liturgique pour une année donnée, basé sur le calendrier général romain, calculant les festivités mobiles et la préséance des solennités, des fêtes et des mémoriaux.
 * [AELF](https://api.aelf.org/) - Une API française pour la liturgie des heures.
+* [![Kotlin](https://img.shields.io/badge/language-Kotlin-red)](#) [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata est un projet d'API RESTful servant principalement la Vulgate latine originale (✝️ Biblia Sacra Vulgata) et sa traduction anglaise - version catholique du domaine public (CPDV) avec des notes d'étude.
 
 ## Applications
 
@@ -46,6 +47,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [romcal](https://github.com/romcal/romcal) - Le calendrier liturgique utilisé par le rite romain (église occidentale) pour le nœud JS v6 et supérieur.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Générateur de calendrier liturgique catholique romain
 * [![TEX](https://img.shields.io/badge/language-TEX-green)](#) [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Édition du Vatican 1908 Retypeset romain progressif dans Gregorio 4
+* [![JSON](https://img.shields.io/badge/language-JSON-orange)](#) [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - Le Catéchisme de l'Église catholique, le droit canonique et l'instruction générale du missel romain au format JSON utilisable.
 
 ## Matériel
 
