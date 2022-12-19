@@ -36,7 +36,6 @@ A curated list of awesome Catholic projects, libraries and software.
 ## Command Line
 
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [lectionarium](https://github.com/davidrmcharles/lectionarium) - A tool for studying Ecclesiastical Latin
-* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [pytholic](https://github.com/Medromenax/pytholic) - Catholic-themed python package
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [calrom](https://github.com/calendarium-romanum/calrom) - Liturgical calendar (Ordinary Form)
 * [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 * [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
@@ -47,6 +46,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![Go](https://img.shields.io/badge/language-Go-cyan)](#) [romanus](https://github.com/borderstech/romanus) - The entire Roman Catechism of the Council of Trent
 * [![Go](https://img.shields.io/badge/language-Go-cyan)](#) [vulgata](https://github.com/borderstech/vulgata) - The Holy Bible with both the Douay-Rheims English and Clementina Vulgata Latin texts
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - The Catechism of the Catholic Chruch in JSON.
+* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [pytholic](https://github.com/Medromenax/pytholic) - Catholic-themed python package
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [romcal](https://github.com/romcal/romcal) - The Liturgical Calendar used by the Roman Rite (Western Church) for Node JS v6 and above.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator
 * [![TEX](https://img.shields.io/badge/language-TEX-green)](#) [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4
