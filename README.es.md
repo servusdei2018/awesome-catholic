@@ -46,6 +46,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![Go](https://img.shields.io/badge/language-Go-cyan)](#) [vulgata](https://github.com/borderstech/vulgata) - La Santa Biblia con los textos en inglés de Douay-Rheims y en latín de Clementina Vulgata
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - El Catecismo de la Iglesia Católica en JSON.
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [pytholic](https://github.com/Medromenax/pytholic) - Paquete Python de temática católica
+* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [cardinals](https://github.com/ChrisVo/cardinals) - La lista de todos los cardenales católicos romanos en formato json
 * [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](#) [romcal](https://github.com/romcal/romcal) - El Calendario Litúrgico utilizado por el Rito Romano (Iglesia Occidental) para Node JS v6 y superior.
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano
 * [![TEX](https://img.shields.io/badge/language-TEX-green)](#) [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Edición Vaticana Graduale Romanum reescrito en Gregorio 4
