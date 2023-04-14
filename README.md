@@ -39,7 +39,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [calrom](https://github.com/calendarium-romanum/calrom) - Liturgical calendar (Ordinary Form)
 * [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 * [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
-
+* [![Shell](https://img.shields.io/badge/language-Shell-green)](#) [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible 
 ## Data
 
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - The full works of St. Thomas Aquinas
