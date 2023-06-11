@@ -40,6 +40,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 * [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
 * [![Shell](https://img.shields.io/badge/language-Shell-green)](#) [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible 
+
 ## Data
 
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - The full works of St. Thomas Aquinas
@@ -74,6 +75,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Display the Ember Days for a given year.
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - A progressive web app designed to help Roman Catholics pray the Rosary. Demo at https://prayrosary.netlify.app/
 
 ## Related-Awesome-Lists
 
