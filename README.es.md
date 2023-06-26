@@ -39,6 +39,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - Biblia Vulgata Latina en la línea de comandos
 * [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Lecturas de Hoy Católicas en su terminal
 * [![Shell](https://img.shields.io/badge/language-Shell-green)](#) [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traducción lado a lado de la Vulgata latina y la Biblia de Douay Reims
+
 ## Datos
 
 * [![HTML](https://img.shields.io/badge/language-HTML-green)](#) [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Las obras completas de Santo Tomás de Aquino
@@ -73,6 +74,8 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Easter dates](https://easter-dates.gavinr.com/) - Distribución de la Pascua por fecha a lo largo de los años, visualizada.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Confessit](https://github.com/kas-catholic/confessit-web) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a prepararse para el sacramento de la confesión examinando su conciencia.
 * [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Muestra los días de ascuas de un año determinado.
+* [![PWA](https://img.shields.io/badge/Progressive-WebApp-yellow)](#) [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a rezar el Rosario. Demo en https://prayrosary.netlify.app/
+
 
 ## Listas-Relacionadas
 
