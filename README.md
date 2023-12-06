@@ -25,6 +25,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
 * [![PHP](https://img.shields.io/badge/language-PHP-blue)](#) [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
+- [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - An api for the daily readings in Portuguese.
 * [![Kotlin](https://img.shields.io/badge/language-Kotlin-red)](#) [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata is a RESTful API project primarily serving the Original Latin Vulgate ( ✝️ Biblia Sacra Vulgata) and its English Translation - Catholic Public Domain Version (CPDV) with study notes.
 
 
