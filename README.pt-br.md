@@ -76,6 +76,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [Confessit](https://github.com/kas-catholic/confessit-web) - Um aplicativo Web projetado para ajudar os católicos romanos a se prepararem para o sacramento da confissão, examinando sua consciência.
 * [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Exibe os dias de jejum e abstinência de determinado ano.
 * [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Aplicativo web projetado para ajudar os católicos a rezarem o Santo Terço. Demonstração em: https://prayrosary.netlify.app/
+* [Oficjum](https://github.com/anna-wro/rkk) - Um aplicativo web progressivo que fornece textos litúrgicos diários para a Liturgia das Horas em polonês. Demonstração em https://oficjum.starokatolicy.eu/
 
 ## Outras listas relacionadas
 

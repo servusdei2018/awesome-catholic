@@ -76,6 +76,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Display the Ember Days for a given year.
 * [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - A progressive web app designed to help Roman Catholics pray the Rosary. Demo at https://prayrosary.netlify.app/
+* [Oficjum](https://github.com/anna-wro/rkk) - A progressive web application that provides daily liturgical texts for the Liturgy of the Hours in Polish. Demo at https://oficjum.starokatolicy.eu/
 
 ## Related-Awesome-Lists
 

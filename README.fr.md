@@ -76,6 +76,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [Confessit](https://github.com/kas-catholic/confessit-web) - Une application Web progressive conçue pour aider les catholiques romains à se préparer au sacrement de la confession en examinant leur conscience.
 * [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Afficher les jours de braise pour une année donnée.
 * [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Une application Web progressive conçue pour aider les catholiques romains prier le Rosaire. Démo sur https://prayrosary.netlify.app/
+* [Oficjum](https://github.com/anna-wro/rkk) - Une application Web progressive qui fournit des textes liturgiques quotidiens pour la Liturgie des Heures en polonais. Démo sur https://oficjum.starokatolicy.eu/
 
 ## Listes-Associées
 
