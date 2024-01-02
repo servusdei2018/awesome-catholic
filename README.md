@@ -4,7 +4,7 @@
 
 A curated list of awesome Catholic projects, libraries and software.
 
-[En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusDei2018/awesome-catholic/blob/master/README.es.md) | [Em português](https://github.com/servusDei2018/awesome-catholic/blob/master/README.pt-br.md)
+[En français](https://github.com/servusdei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusdei2018/awesome-catholic/blob/master/README.es.md) | [Em português](https://github.com/servusdei2018/awesome-catholic/blob/master/README.pt-br.md) | [Po polsku](https://github.com/servusdei2018/awesome-catholic/blob/master/README.pl-pl.md)
 
 ## Contents
 
@@ -25,7 +25,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
 * [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
-* [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - An api for the daily readings in Portuguese.
+* [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - An API for the daily readings in Portuguese.
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata is a RESTful API project primarily serving the Original Latin Vulgate ( ✝️ Biblia Sacra Vulgata) and its English Translation - Catholic Public Domain Version (CPDV) with study notes.
 
 ## Apps
