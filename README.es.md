@@ -39,6 +39,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [calrom](https://github.com/calendarium-romanum/calrom) - Calendario litúrgico (forma ordinaria)
 * [vul](https://github.com/LukeSmithxyz/vul) - Biblia Vulgata Latina en la línea de comandos
 * [agape-deus](https://github.com/ngorden/agape-deus) - Lecturas de Hoy Católicas en su terminal
+* [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Lee la biblia en su terminal
 * [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traducción lado a lado de la Vulgata latina y la Biblia de Douay Reims
 
 ## Datos
