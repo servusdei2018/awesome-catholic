@@ -39,6 +39,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [calrom](https://github.com/calendarium-romanum/calrom) - Kalendarz liturgiczny (forma zwykła)
 * [vul](https://github.com/LukeSmithxyz/vul) - Łacińska Biblia Wulgaty w wierszu poleceń
 * [agape-deus](https://github.com/ngorden/agape-deus) - Codzienne odczyty katolickie w twoim terminalu
+* [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Przeczytaj Biblię w swoim terminalu
 * [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Równoległe tłumaczenie łacińskiej Wulgaty i Biblii Douay Rheims
 
 ## Dane
