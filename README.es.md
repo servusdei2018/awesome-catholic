@@ -20,7 +20,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 ## API
 
 * [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) - El generador de lorem ipsum más sagrado de Internet. Úselo en línea o con API.
-* [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Obtenga tiempo de masas en su país
+* [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Obtenga tiempo de misas en su país
 * [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Base de datos bíblica tamil en MySQL con PHP API
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) - API RESTful que proporciona datos de calendario de la iglesia católica romana para sus aplicaciones
 * [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Un script PHP que generará el calendario litúrgico para un año determinado, basado en el Calendario General Romano, calculando las festividades móviles y la precedencia de solemnidades, fiestas y memoriales.
