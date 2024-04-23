@@ -39,7 +39,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [calrom](https://github.com/calendarium-romanum/calrom) - Calendario litúrgico (forma ordinaria)
 * [vul](https://github.com/LukeSmithxyz/vul) - Biblia Vulgata Latina en la línea de comandos
 * [agape-deus](https://github.com/ngorden/agape-deus) - Lecturas de Hoy Católicas en su terminal
-* [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Lee la biblia en su terminal
+* [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Lea la biblia en su terminal
 * [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traducción lado a lado de la Vulgata latina y la Biblia de Douay Reims
 
 ## Datos
@@ -52,7 +52,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [cardinals](https://github.com/ChrisVo/cardinals) - La lista de todos los cardenales católicos romanos en formato json
 * [romcal](https://github.com/romcal/romcal) - El Calendario Litúrgico utilizado por el Rito Romano (Iglesia Occidental) para Node JS v6 y superior.
 * [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano
-* [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Edición Vaticana Graduale Romanum reescrito en Gregorio 4
+* [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edición Vaticana de 1908 del Graduale Romanum, recomposición de la época de Gregorio 4.
 * [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
 
 ## Hardware
@@ -61,7 +61,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
 ## Aplicaciones-móviles
 
-* [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - Una aplicación de la diócesis católica para Android.
+* [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - Una aplicación de diócesis católica para Android.
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Una aplicación de diócesis católica para iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Aplicación Flutter para contar las recitaciones diarias de la novena de San Andrés, 15 veces al día.
 
@@ -85,4 +85,4 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - Una lista seleccionada de recursos y sitios web increíbles sobre la Biblia y temas relacionados con ella.
 - [Awesome Theology](https://github.com/historical-theology/awesome-theology) - Una lista seleccionada de software de código abierto para la teología católica.
-- [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) - Una lista de software por computar el calendario litúrgico.
+- [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) - Una lista de software relacionada con computaciones del calendario litúrgico.
