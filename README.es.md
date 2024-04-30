@@ -10,7 +10,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
   - [API](#api)
   - [Aplicaciones](#aplicaciones)
-  - [Command Line](#command-line)
+  - [Línea de comandos](#command-line)
   - [Datos](#datos)
   - [Hardware](#hardware)
   - [Aplicaciones móviles](#aplicaciones-móviles)
@@ -33,7 +33,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [Lectionary](https://github.com/Dev1an/Lectionary) - Una aplicación bellamente diseñada para ver lecturas diarias en diferentes idiomas. Puede exportar JSON para crear folletos para Nightfever Leuven.
 * [gregorio](https://github.com/gregorio-project/gregorio) - Gregorio es una aplicación de software para grabar partituras del canto gregoriano en una computadora.
 
-## Command Line
+## Línea de comandos
 
 * [lectionarium](https://github.com/davidrmcharles/lectionarium) - Una herramienta para estudiar latín eclesiástico
 * [calrom](https://github.com/calendarium-romanum/calrom) - Calendario litúrgico (forma ordinaria)
