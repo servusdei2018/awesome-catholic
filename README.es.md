@@ -10,7 +10,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
   - [API](#api)
   - [Aplicaciones](#aplicaciones)
-  - [Línea de comandos](#command-line)
+  - [Línea de comandos](#línea-de-comandos)
   - [Datos](#datos)
   - [Hardware](#hardware)
   - [Aplicaciones móviles](#aplicaciones-móviles)
