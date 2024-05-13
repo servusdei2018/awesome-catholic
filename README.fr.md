@@ -27,6 +27,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [AELF](https://api.aelf.org/) - Une API française pour la liturgie des heures.
 * [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - Une API pour les lectures quotidiennes en portugais
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata est un projet d'API RESTful servant principalement la Vulgate latine originale (✝️ Biblia Sacra Vulgata) et sa traduction anglaise - version catholique du domaine public (CPDV) avec des notes d'étude.
+* [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Aidez les gens à surmonter leurs problèmes avec des phrases de motivation catholiques et séculaires.
 
 ## Applications
 
