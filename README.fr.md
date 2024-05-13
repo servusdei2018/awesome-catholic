@@ -80,6 +80,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Une application Web progressive conçue pour aider les catholiques romains prier le Rosaire. Démo sur https://prayrosary.netlify.app/
 * [Oficjum](https://github.com/anna-wro/rkk) - Une application Web progressive qui fournit des textes liturgiques quotidiens pour la Liturgie des Heures en polonais. Démo sur https://oficjum.starokatolicy.eu/
 * [Rosarium](https://github.com/leozamboni/Rosarium) - Application Web conçue pour aider les catholiques à prier le Saint Rosaire en latin de manière interactive et immersive à travers des modèles 3D d'églises catholiques générés par photogrammétrie. Démo : https://leozamboni.github.io/Rosarium
+* [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Application Web pour aider à la dévotion de Los Mil Jesús.
 
 ## Listes-Associées
 

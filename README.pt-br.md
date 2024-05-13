@@ -80,6 +80,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Aplicativo web projetado para ajudar os católicos a rezarem o Santo Terço. Demonstração em: https://prayrosary.netlify.app/
 * [Oficjum](https://github.com/anna-wro/rkk) - Um aplicativo web progressivo que fornece textos litúrgicos diários para a Liturgia das Horas em polonês. Demonstração em https://oficjum.starokatolicy.eu/
 * [Rosarium](https://github.com/leozamboni/Rosarium) - Aplicativo Web projetado para ajudar os católicos a rezarem o Santo Terço em Latim de forma interativa e imersiva através de modelos 3D de igrejas católicas gerados através de fotogrametria. Demo: https://leozamboni.github.io/Rosarium
+* [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplicativo web para auxiliar na devoção de Los Mil Jesús.
 
 ## Outras listas relacionadas
 
