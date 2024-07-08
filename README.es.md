@@ -30,7 +30,6 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Ayuda a los demás a superar sus problemas con frases motivacionales, tanto católicas como seculares.
 * [matosSoaresBibliaApi](https://github.com/devocionario/matosSoaresBibliaApi) - API para acceder a versos de la Vulgata Sixto-Clementina traducidas por el Padre Matos Soares al portugués.
 
-
 ## Aplicaciones
 
 * [Lectionary](https://github.com/Dev1an/Lectionary) - Una aplicación bellamente diseñada para ver lecturas diarias en diferentes idiomas. Puede exportar JSON para crear folletos para Nightfever Leuven.
@@ -57,6 +56,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano
 * [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edición Vaticana de 1908 del Graduale Romanum, recomposición de la época de Gregorio 4.
 * [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
+* [focus-study](https://github.com/rvbcldud/focus-study) - Una colección de estudios bíblicos de FOCUS en formato de folleto.
 
 ## Hardware
 

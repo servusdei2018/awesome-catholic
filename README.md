@@ -56,6 +56,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator
 * [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4
 * [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
+* [focus-study](https://github.com/rvbcldud/focus-study) - A collection of FOCUS Bible studies in booklet format.
 
 ## Hardware
 

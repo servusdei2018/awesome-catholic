@@ -56,6 +56,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generator rzymskokatolickiego kalendarza liturgicznego
 * [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Wydanie Watykanu Graduale Romanum z 1908 r., przepisane w Gregorio 4
 * [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - Katechizm Kościoła Katolickiego, Prawo Kanoniczne i Ogólne wprowadzenie do Mszału Rzymskiego w użytecznym formacie JSON.
+* [focus-study](https://github.com/rvbcldud/focus-study) - Zbiór studiów biblijnych FOCUS w formie broszury.
 
 ## Sprzęt komputerowy
 
