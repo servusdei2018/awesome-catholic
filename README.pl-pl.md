@@ -83,6 +83,8 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Oficjum](https://github.com/anna-wro/rkk) - Progresywna aplikacja internetowa udostępniająca codzienne teksty liturgiczne do Liturgii Godzin. Demo na https://oficjum.starokatolicy.eu/
 * [Rosarium](https://github.com/leozamboni/Rosarium) - Aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać Różaniec Święty po łacinie w interaktywny i wciągający sposób poprzez modele 3D kościołów katolickich wygenerowane za pomocą fotogrametrii. Demo: https://leozamboni.github.io/Rosarium
 * [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplikacja internetowa pomagająca w nabożeństwie Los Mil Jesús.
+* [Domus](https://github.com/leozamboni/Domus) - Aplikacja internetowa przeznaczona do odwiedzania Kościołów na całym świecie poprzez modele 3D generowane metodą fotogrametrii. Demo: https://leozamboni.github.io/Domus
+
 
 ## Powiązane niesamowite listy
 
