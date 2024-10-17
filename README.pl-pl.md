@@ -23,7 +23,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Zdobądź czas mszy w swoim kraju
 * [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Tamilska baza danych Biblii w MySQL z PHP API
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API dostarczające dane z kalendarza kościoła rzymskokatolickiego dla Twoich aplikacji
-* [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Skrypt PHP generujący kalendarz liturgiczny na dany rok w oparciu o Ogólny Kalendarz Rzymski, obliczający uroczystości mobilne oraz pierwszeństwo uroczystości, świąt i wspomnień.
+* [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) - Skrypt PHP generujący kalendarz liturgiczny na dany rok w oparciu o Ogólny Kalendarz Rzymski, obliczający uroczystości mobilne oraz pierwszeństwo uroczystości, świąt i wspomnień.
 * [AELF](https://api.aelf.org/) - Francuskie API dla Liturgii Godzin.
 * [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - Interfejs API do codziennych odczytów w języku portugalskim.
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata to projekt RESTful API obsługujący przede wszystkim oryginalną łacińską Wulgatę (✝️ Biblia Sacra Vulgata) i jej tłumaczenie na język angielski - katolicka wersja domeny publicznej (CPDV) z notatkami do nauki.
@@ -67,6 +67,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Catholic Diocese App (Android)](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - Aplikacja diecezji katolickiej na Androida.
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Aplikacja diecezji katolickiej na iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Aplikacja Flutter zliczająca codzienne odmawianie nowenny do św. Andrzeja, 15 razy dziennie.
+* [Mariam](https://github.com/aldrinzigmundv/mariam) - medytacyjna aplikacja różańcowa, która umożliwia wierzącym odmawianie różańca
 
 ## Internetowe aplikacje
 

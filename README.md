@@ -42,7 +42,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 * [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
 * [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Read the bible in your terminal
-* [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible 
+* [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible
 
 ## Data
 
@@ -67,6 +67,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [Catholic Diocese App (Android)](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - A Catholic diocese app for android.
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app to count daily recitations of the St. Andrew novena prayer, 15 times daily.
+* [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
 
 ## Web-Apps
 

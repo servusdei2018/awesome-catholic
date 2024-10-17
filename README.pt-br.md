@@ -23,7 +23,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Descubra horários de Missas no seu país.
 * [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Biblia Tamil em banco de dados MySQL com API PHP.
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API que fornece dados de calendários da Igreja Católica Apostólica Romana para seus aplicativos.
-* [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Um script PHP que gerará o calendário litúrgico de qualquer ano, com base no Calendário Romano Geral, calculando as festividades móveis e a precedência de solenidades, festas e memoriais.
+* [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) - Um script PHP que gerará o calendário litúrgico de qualquer ano, com base no Calendário Romano Geral, calculando as festividades móveis e a precedência de solenidades, festas e memoriais.
 * [AELF](https://api.aelf.org/) - API francesa para Liturgia das Horas.
 - [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - API em português para a Liturgia Diária.
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - A Biblia Sacra Vulgata é um projeto de API RESTful que fornece a Vulgata Latina Original e sua tradução para o inglês. Versão Católica de Domínio Público (CPDV) com notas de estudo.
@@ -50,7 +50,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [romanus](https://github.com/borderstech/romanus) - Todo o Catecismo Romano do Concílio de Trento
 * [vulgata](https://github.com/borderstech/vulgata) - A Bíblia Sagrada com ambos os textos: Douay-Rheims e Clementina Vulgata Latin.
 * [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - O Catecismo da Igreja Católica em JSON.
-* [pytholic](https://github.com/Medromenax/pytholic) - Um package católico no Python 
+* [pytholic](https://github.com/Medromenax/pytholic) - Um package católico no Python
 * [cardinals](https://github.com/ChrisVo/cardinals) - Uma lista de todos os Cardeais da Igreja Católica Apostólica Romana em JSON.
 * [romcal](https://github.com/romcal/romcal) - Calendário Litúrgico usado pelo Rito Romano (Ocidental) para Node JS v6 e acima.
 * [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Gerador de Calendário Católico Romano.
@@ -67,6 +67,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - Aplicativo para Dioceses (Android).
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Aplicativo para Dioceses (iOS).
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Aplicativo Flutter para contar as recitações diárias da oração da novena de Santo André (15 vezes ao dia).
+* [Mariam](https://github.com/aldrinzigmundv/mariam) - aplicativo de rosário meditativo que permite aos crentes rezar o Rosário
 
 ## Aplicações Web
 

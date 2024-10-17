@@ -23,7 +23,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Obtenez du temps de masse dans votre pays
 * [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Base de données de la Bible tamoule dans MySQL avec API PHP
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) - API RESTful fournissant des données de calendrier d'église catholique romaine pour vos applications
-* [Liturgical Calendar](https://github.com/JohnRDOrazio/LiturgicalCalendar) - Un script PHP qui générera le calendrier liturgique pour une année donnée, basé sur le calendrier général romain, calculant les festivités mobiles et la préséance des solennités, des fêtes et des mémoriaux.
+* [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) - Un script PHP qui générera le calendrier liturgique pour une année donnée, basé sur le calendrier général romain, calculant les festivités mobiles et la préséance des solennités, des fêtes et des mémoriaux.
 * [AELF](https://api.aelf.org/) - Une API française pour la liturgie des heures.
 * [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - Une API pour les lectures quotidiennes en portugais
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata est un projet d'API RESTful servant principalement la Vulgate latine originale (✝️ Biblia Sacra Vulgata) et sa traduction anglaise - version catholique du domaine public (CPDV) avec des notes d'étude.
@@ -67,6 +67,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [Catholic Diocese App - Android](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - Une application du diocèse catholique pour Android.
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Une application du diocèse catholique pour iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app pour compter les récitations quotidiennes de la prière de la neuvaine de Saint-André, 15 fois par jour.
+* [Mariam](https://github.com/aldrinzigmundv/mariam) - application de chapelet méditatif qui permet aux croyants de prier le chapelet
 
 ## Web-Apps
 
