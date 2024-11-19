@@ -13,8 +13,8 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
   - [Línea de comandos](#línea-de-comandos)
   - [Datos](#datos)
   - [Hardware](#hardware)
-  - [Neovim Plugins](#Neovim)
   - [Aplicaciones móviles](#aplicaciones-móviles)
+  - [Neovim Plugins](#Neovim)
   - [Aplicaciones web](#aplicaciones-web)
   - [Listas relacionadas](#listas-relacionadas)
 
