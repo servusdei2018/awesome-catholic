@@ -14,6 +14,7 @@ A curated list of awesome Catholic projects, libraries and software.
   - [Data](#data)
   - [Hardware](#hardware)
   - [Mobile Apps](#mobile-apps)
+  - [Neovim Plugins](#neovim)
   - [Web Apps](#web-apps)
   - [Related Awesome Lists](#related-awesome-lists)
 
@@ -68,6 +69,10 @@ A curated list of awesome Catholic projects, libraries and software.
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app to count daily recitations of the St. Andrew novena prayer, 15 times daily.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
+
+## Neovim
+
+* [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - Neovim plugin to practice lectio divina
 
 ## Web-Apps
 
