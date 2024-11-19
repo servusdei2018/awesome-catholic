@@ -14,7 +14,7 @@ A curated list of awesome Catholic projects, libraries and software.
   - [Data](#data)
   - [Hardware](#hardware)
   - [Mobile Apps](#mobile-apps)
-  - [Neovim Plugins](#Neovim)
+  - [Neovim Plugins](#neovim)
   - [Web Apps](#web-apps)
   - [Related Awesome Lists](#related-awesome-lists)
 
