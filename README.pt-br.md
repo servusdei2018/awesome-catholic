@@ -14,6 +14,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
   - [Dados](#dados)
   - [Hardware](#hardware)
   - [Aplicativos Mobile](#aplicativos-mobile)
+  - [Neovim Plugin](#neovim)
   - [Aplicações Web](#aplicações-web)
   - [Outras listas relacionadas](#outras-listas-relacionadas)
 
@@ -85,6 +86,10 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [Rosarium](https://github.com/leozamboni/Rosarium) - Aplicativo Web projetado para ajudar os católicos a rezarem o Santo Terço em Latim de forma interativa e imersiva através de modelos 3D de igrejas católicas gerados através de fotogrametria. Demo: https://leozamboni.github.io/Rosarium
 * [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplicativo web para auxiliar na devoção de Los Mil Jesús.
 * [Domus](https://github.com/leozamboni/Domus) - Aplicativo Web projetado para visitar Igrejas do mundo todo através de modelos 3D gerados por fotogrametria. Demo: https://leozamboni.github.io/Domus
+
+## Neovim
+
+* [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - um plugin neovim para praticar a lectio divina.
 
 ## Outras listas relacionadas
 

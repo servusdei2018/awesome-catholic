@@ -14,6 +14,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
   - [Dane](#dane)
   - [Sprzęt komputerowy](#sprzęt-komputerowy)
   - [Aplikacje mobilne](#aplikacje-mobilne)
+  - [Neovim Plugin](#neovim)
   - [Internetowe aplikacje](#internetowe-aplikacje)
   - [Powiązane niesamowite listy](#powiązane-niesamowite-listy)
 
@@ -68,6 +69,10 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Aplikacja diecezji katolickiej na iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Aplikacja Flutter zliczająca codzienne odmawianie nowenny do św. Andrzeja, 15 razy dziennie.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - medytacyjna aplikacja różańcowa, która umożliwia wierzącym odmawianie różańca
+
+## Neovim
+
+* [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - wtyczka neovim do ćwiczenia lectio divina.
 
 ## Internetowe aplikacje
 
