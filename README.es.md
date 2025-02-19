@@ -91,6 +91,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplicación web para ayudar en la devoción de Los Mil Jesús.
 * [Domus](https://github.com/leozamboni/Domus) - Aplicación web diseñada para visitar Iglesias de todo el mundo a través de modelos 3D generados por fotogrametría. Demo: https://leozamboni.github.io/Domus
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Misal católico romano de 1962 para la misa tradicional en latín
+* [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Crear mapas interactivos y estáticos de las diócesis, provincias y catedrales católicas de rito latino en los Estados Unidos.
 
 ## Listas-Relacionadas
 

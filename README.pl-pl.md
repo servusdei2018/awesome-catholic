@@ -91,6 +91,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplikacja internetowa pomagająca w nabożeństwie Los Mil Jesús.
 * [Domus](https://github.com/leozamboni/Domus) - Aplikacja internetowa przeznaczona do odwiedzania Kościołów na całym świecie poprzez modele 3D generowane metodą fotogrametrii. Demo: https://leozamboni.github.io/Domus
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Mszał rzymskokatolicki z 1962 r. do tradycyjnej mszy łacińskiej
+* [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Tworzenie interaktywnych i statycznych map diecezji, prowincji i katedr katolickich obrządku łacińskiego w Stanach Zjednoczonych.
 
 ## Powiązane niesamowite listy
 
