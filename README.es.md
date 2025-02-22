@@ -69,6 +69,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - Una aplicación de diócesis católica para iOS.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Aplicación Flutter para contar las recitaciones diarias de la novena de San Andrés, 15 veces al día.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - Aplicación de rosario meditativo que permite a los creyentes rezar el Rosario.
+* [Prayer Book](https://codeberg.org/jozo/prayer-book) - aplicación móvil con oraciones católicas
 
 ## Neovim
 
