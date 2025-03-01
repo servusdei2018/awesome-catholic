@@ -70,6 +70,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app to count daily recitations of the St. Andrew novena prayer, 15 times daily.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - mobile app with catholic prayers
+* [Rosarium](https://codeberg.org/Krixec/Rosarium) - multilingual rosary app
 
 ## Neovim
 

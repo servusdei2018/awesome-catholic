@@ -70,6 +70,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app pour compter les récitations quotidiennes de la prière de la neuvaine de Saint-André, 15 fois par jour.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - application de chapelet méditatif qui permet aux croyants de prier le chapelet
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - application mobile avec prières catholiques
+* [Rosarium](https://codeberg.org/Krixec/Rosarium) - application de rosaire multilingue
 
 ## Neovim
 

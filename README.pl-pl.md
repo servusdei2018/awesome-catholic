@@ -70,6 +70,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Aplikacja Flutter zliczająca codzienne odmawianie nowenny do św. Andrzeja, 15 razy dziennie.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - medytacyjna aplikacja różańcowa, która umożliwia wierzącym odmawianie różańca
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - aplikacja mobilna z modlitwami katolickimi
+* [Rosarium](https://codeberg.org/Krixec/Rosarium) - wielojęzyczna aplikacja różańcowa
 
 ## Neovim
 
