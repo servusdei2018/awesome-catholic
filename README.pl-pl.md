@@ -94,6 +94,10 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Domus](https://github.com/leozamboni/Domus) - Aplikacja internetowa przeznaczona do odwiedzania Kościołów na całym świecie poprzez modele 3D generowane metodą fotogrametrii. Demo: https://leozamboni.github.io/Domus
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Mszał rzymskokatolicki z 1962 r. do tradycyjnej mszy łacińskiej
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Tworzenie interaktywnych i statycznych map diecezji, prowincji i katedr katolickich obrządku łacińskiego w Stanach Zjednoczonych.
+* [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Kodeks Prawa Kanonicznego z możliwością wyszukiwania
+* [Catechism](https://github.com/nossbigg/catechism) - Katechizm Kościoła Katolickiego, zmodernizowany ⭐️⛪️ 
+* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Zbiór tradycyjnych cytatów katolickich na temat małej liczby zbawionych, różańca i używania łaciny.
+* [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Nieoficjalna strona internetowa codziennych modlitw Auxilium Christianorum dla świeckich
 
 ## Powiązane niesamowite listy
 
