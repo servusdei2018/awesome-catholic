@@ -94,6 +94,10 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [Domus](https://github.com/leozamboni/Domus) - Aplicativo Web projetado para visitar Igrejas do mundo todo através de modelos 3D gerados por fotogrametria. Demo: https://leozamboni.github.io/Domus
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Missal Católico Romano de 1962 para a Missa Latina Tradicional
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Criar mapas interativos e estáticos de dioceses, províncias e catedrais católicas de rito latino nos Estados Unidos.
+* [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Código de Direito Canónico com opção de pesquisa
+* [Catechism](https://github.com/nossbigg/catechism) - O Catecismo da Igreja Católica modernizado ⭐️⛪️ 
+* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Coletânea de citações católicas tradicionais sobre a escassez de salvos, o rosário e o uso do latim.
+* [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interface não oficial para as orações diárias do Auxilium Christianorum para os leigos
 
 ## Outras listas relacionadas
 
