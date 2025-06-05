@@ -82,7 +82,6 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - Liturgia das Horas Tradicional.
 * [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Obtém as Leituras Diárias da Missa da API da EWTN, Orações Católicas Diárias e Conheça sua Fé; inclui orações católicas.
 * [Citation Generator](https://github.com/matefs/Citation-Generator) - Crie citações de santos, da Bíblia ou de qualquer autor.
-* [missal-1962](https://github.com/mmolenda/Missal1962) - API Python/Flask que disponibiliza o calendário e os próprios para determinado dia, e o Bootstrap UI consome e apresenta os dados.
 * [theocrone](https://github.com/paucazou/theochrone) - Calendário para o Rito Tridentino. Demonstração: http://theochrone.fr
 * [Easter dates](https://easter-dates.gavinr.com/) - Distribuição da Páscoa por data ao longo dos anos, visualizada.
 * [Confessit](https://github.com/kas-catholic/confessit-web) - Um aplicativo Web projetado para ajudar os católicos romanos a se prepararem para o sacramento da confissão, examinando sua consciência.
