@@ -80,7 +80,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
 * [missal.io](https://github.com/benyanke/missal.io) - Una aplicación web católica de misal de mano dominical para la misa tradicional en latín
 * [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - El oficio divino tradicional.
-* [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Obtiene lecturas diarias de la misa de EWTN API, oraciones católicas diarias y Know your Faith; incluye oraciones católicas.
+* [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Obtiene lecturas diarias de la misa de EWTN API, oraciones católicas diarias y Know your Faith; incluye oraciones católicas.
 * [Citation Generator](https://github.com/matefs/Citation-Generator) - Crea citas de Santos, la Biblia o cualquier autor basado.
 * [missal-1962](https://github.com/mmolenda/Missal1962) - Python / Flask API, que sirve el calendario y los propios para un día determinado, y la interfaz de usuario de Bootstrap consume y presenta los datos.
 * [theocrone](https://github.com/paucazou/theochrone) - Un calendario para el rito tridentino. Demo en http://theochrone.fr
