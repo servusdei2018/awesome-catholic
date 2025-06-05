@@ -71,6 +71,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - medytacyjna aplikacja różańcowa, która umożliwia wierzącym odmawianie różańca
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - aplikacja mobilna z modlitwami katolickimi
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - wielojęzyczna aplikacja różańcowa
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
 
 ## Neovim
 

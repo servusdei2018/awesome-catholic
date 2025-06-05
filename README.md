@@ -71,6 +71,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - mobile app with catholic prayers
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - multilingual rosary app
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
 
 ## Neovim
 
