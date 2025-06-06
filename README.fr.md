@@ -29,7 +29,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - Une API pour les lectures quotidiennes en portugais
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata est un projet d'API RESTful servant principalement la Vulgate latine originale (✝️ Biblia Sacra Vulgata) et sa traduction anglaise - version catholique du domaine public (CPDV) avec des notes d'étude.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Aidez les gens à surmonter leurs problèmes avec des phrases de motivation catholiques et séculaires.
-* [matosSoaresBibliaApi](https://github.com/devocionario/matosSoaresBibliaApi) - API pour accéder aux versets de la Vulgate Sisto-Clementina traduits par le Père Matos Soares en portugais.
+* [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API pour accéder aux versets de la Vulgate Sisto-Clementina traduits par le Père Matos Soares en portugais.
 
 ## Applications
 
