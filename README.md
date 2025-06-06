@@ -80,7 +80,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 * [missal.io](https://github.com/benyanke/missal.io) - A Catholic Sunday hand missal web app for the Traditional Latin Mass
 * [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The traditional divine office.
-* [Catholic Daily Readings](https://github.com/tbaba007/ReactJs-Catholic-Daily-Readings-Integration-EWTN) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
+* [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
 * [Citation Generator](https://github.com/matefs/Citation-Generator) - Create quotes from Saints, the Bible or any based author.
 * [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
 * [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
