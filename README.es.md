@@ -71,6 +71,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - Aplicación de rosario meditativo que permite a los creyentes rezar el Rosario.
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - aplicación móvil con oraciones católicas
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - aplicación de rosario multilingüe
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
 
 ## Neovim
 
