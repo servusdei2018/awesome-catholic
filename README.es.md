@@ -71,7 +71,6 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - Aplicación de rosario meditativo que permite a los creyentes rezar el Rosario.
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - aplicación móvil con oraciones católicas
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - aplicación de rosario multilingüe
-* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
 
 ## Neovim
 
@@ -95,9 +94,10 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Misal católico romano de 1962 para la misa tradicional en latín
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Crear mapas interactivos y estáticos de las diócesis, provincias y catedrales católicas de rito latino en los Estados Unidos.
 * [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Derecho canónico, con capacidad de búsqueda
-* [Catechism](https://github.com/nossbigg/catechism) - El Catecismo de la Iglesia Católica, modernizado ⭐️⛪️ 
+* [Catechism](https://github.com/nossbigg/catechism) - El Catecismo de la Iglesia Católica, modernizado ⭐️⛪️
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Colección de citas católicas tradicionales sobre los pocos salvados, el rosario y el uso del latín.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interfaz no oficial para las oraciones diarias de Auxilium Christianorum para los laicos
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
 
 ## Listas-Relacionadas
 

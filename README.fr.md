@@ -71,7 +71,6 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - application de chapelet méditatif qui permet aux croyants de prier le chapelet
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - application mobile avec prières catholiques
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - application de rosaire multilingue
-* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Référence numérique pour la Bible catholique Cheatsheet du Dr Taylor Marshall avec des versets bibliques
 
 ## Neovim
 
@@ -95,9 +94,11 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Missel catholique romain de 1962 pour la messe traditionnelle latine
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Créer des cartes interactives et statiques des diocèses, provinces et cathédrales catholiques de rite latin aux États-Unis.
 * [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Le Code de droit canonique, avec possibilité de recherche
-* [Catechism](https://github.com/nossbigg/catechism) - Le Catéchisme de l'Église catholique, modernisé ⭐️⛪️ 
+* [Catechism](https://github.com/nossbigg/catechism) - Le Catéchisme de l'Église catholique, modernisé ⭐️⛪️
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Recueil de citations catholiques traditionnelles sur le petit nombre de sauvés, le chapelet et l'utilisation du latin.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interface non officielle pour les prières quotidiennes d'Auxilium Christianorum pour les laïcs
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Référence numérique pour la Bible catholique Cheatsheet du Dr Taylor Marshall avec des versets bibliques
+
 ## Listes-Associées
 
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - Une liste organisée de ressources et de sites Web impressionnants sur la Bible et les sujets qui y sont liés.

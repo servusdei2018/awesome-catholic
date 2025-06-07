@@ -71,7 +71,6 @@ A curated list of awesome Catholic projects, libraries and software.
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - mobile app with catholic prayers
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - multilingual rosary app
-* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
 
 ## Neovim
 
@@ -95,9 +94,10 @@ A curated list of awesome Catholic projects, libraries and software.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - 1962 Roman Catholic Missal for the Traditional Latin Mass
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
 * [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - The Code of Canon Law, with searching capability
-* [Catechism](https://github.com/nossbigg/catechism) -  The Catechism of the Catholic Church, modernised ⭐️⛪️ 
-* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Traditional Catholic quote collection about the fewness of the saved, the rosary, and the use of Latin. 
+* [Catechism](https://github.com/nossbigg/catechism) -  The Catechism of the Catholic Church, modernised ⭐️⛪️
+* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Traditional Catholic quote collection about the fewness of the saved, the rosary, and the use of Latin.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Unofficial frontend for the daily Auxilium Christianorum prayers for the laity
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
 
 ## Related-Awesome-Lists
 

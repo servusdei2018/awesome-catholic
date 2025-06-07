@@ -71,7 +71,6 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Mariam](https://github.com/aldrinzigmundv/mariam) - medytacyjna aplikacja różańcowa, która umożliwia wierzącym odmawianie różańca
 * [Prayer Book](https://codeberg.org/jozo/prayer-book) - aplikacja mobilna z modlitwami katolickimi
 * [Rosarium](https://codeberg.org/Krixec/Rosarium) - wielojęzyczna aplikacja różańcowa
-* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
 
 ## Neovim
 
@@ -95,9 +94,10 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [Missale Meum](https://github.com/mmolenda/missalemeum) - Mszał rzymskokatolicki z 1962 r. do tradycyjnej mszy łacińskiej
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Tworzenie interaktywnych i statycznych map diecezji, prowincji i katedr katolickich obrządku łacińskiego w Stanach Zjednoczonych.
 * [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Kodeks Prawa Kanonicznego z możliwością wyszukiwania
-* [Catechism](https://github.com/nossbigg/catechism) - Katechizm Kościoła Katolickiego, zmodernizowany ⭐️⛪️ 
+* [Catechism](https://github.com/nossbigg/catechism) - Katechizm Kościoła Katolickiego, zmodernizowany ⭐️⛪️
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Zbiór tradycyjnych cytatów katolickich na temat małej liczby zbawionych, różańca i używania łaciny.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Nieoficjalna strona internetowa codziennych modlitw Auxilium Christianorum dla świeckich
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
 
 ## Powiązane niesamowite listy
 
