@@ -98,6 +98,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Traditional Catholic quote collection about the fewness of the saved, the rosary, and the use of Latin.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Unofficial frontend for the daily Auxilium Christianorum prayers for the laity
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
+* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Chaplet of Saint Michael the Archangel
 
 ## Related-Awesome-Lists
 

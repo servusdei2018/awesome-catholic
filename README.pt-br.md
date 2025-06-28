@@ -98,6 +98,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Coletânea de citações católicas tradicionais sobre a escassez de salvos, o rosário e o uso do latim.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interface não oficial para as orações diárias do Auxilium Christianorum para os leigos
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referência digital para a Bíblia Católica com dicas do Dr. Taylor Marshall com versículos da Bíblia
+* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Terço de São Miguel Arcanjo
 
 ## Outras listas relacionadas
 

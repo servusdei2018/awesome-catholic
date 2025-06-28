@@ -98,6 +98,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Zbiór tradycyjnych cytatów katolickich na temat małej liczby zbawionych, różańca i używania łaciny.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Nieoficjalna strona internetowa codziennych modlitw Auxilium Christianorum dla świeckich
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
+* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Koronka do św. Michała Archanioła
 
 ## Powiązane niesamowite listy
 

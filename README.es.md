@@ -98,6 +98,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Colección de citas católicas tradicionales sobre los pocos salvados, el rosario y el uso del latín.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interfaz no oficial para las oraciones diarias de Auxilium Christianorum para los laicos
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
+* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Coronilla de San Miguel Arcángel
 
 ## Listas-Relacionadas
 
