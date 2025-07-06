@@ -58,6 +58,8 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edición Vaticana de 1908 del Graduale Romanum, recomposición de la época de Gregorio 4.
 * [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
 * [focus-study](https://github.com/rvbcldud/focus-study) - Una colección de estudios bíblicos de FOCUS en formato de folleto.
+* [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore n.° 2 en JSON
+* [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catecismo de San Pío X en JSON
 
 ## Hardware
 
