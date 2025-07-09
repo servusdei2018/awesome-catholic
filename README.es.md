@@ -44,6 +44,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [agape-deus](https://github.com/ngorden/agape-deus) - Lecturas de Hoy Católicas en su terminal
 * [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Lea la biblia en su terminal
 * [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traducción lado a lado de la Vulgata latina y la Biblia de Douay Reims
+* [christian-fortune](https://github.com/ngorden/christian-fortune) - El clásico mandato de la «fortune» con un toque cristiano
 
 ## Datos
 
@@ -101,6 +102,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interfaz no oficial para las oraciones diarias de Auxilium Christianorum para los laicos
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Coronilla de San Miguel Arcángel
+* [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita y muestra pasajes aleatorios de una API de la Biblia.
 
 ## Listas-Relacionadas
 

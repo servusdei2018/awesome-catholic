@@ -44,6 +44,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [agape-deus](https://github.com/ngorden/agape-deus) - Codzienne odczyty katolickie w twoim terminalu
 * [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Przeczytaj Biblię w swoim terminalu
 * [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Równoległe tłumaczenie łacińskiej Wulgaty i Biblii Douay Rheims
+* [christian-fortune](https://github.com/ngorden/christian-fortune) - Klasyczne polecenie „fortune” z chrześcijańskim akcentem
 
 ## Dane
 
@@ -101,6 +102,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Nieoficjalna strona internetowa codziennych modlitw Auxilium Christianorum dla świeckich
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Koronka do św. Michała Archanioła
+* [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
 
 ## Powiązane niesamowite listy
 

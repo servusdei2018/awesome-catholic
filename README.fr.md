@@ -44,6 +44,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [agape-deus](https://github.com/ngorden/agape-deus) - Lectures catholiques quotidiennes dans votre terminal
 * [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Lis la Bible dans votre terminal
 * [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traduction côte à côte de la Vulgate latine et de la bible Douay Reims
+* [christian-fortune](https://github.com/ngorden/christian-fortune) - Commande classique « fortune », avec une touche chrétienne
 
 ## Les-Données
 
@@ -102,6 +103,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Référence numérique pour la Bible catholique Cheatsheet du Dr Taylor Marshall avec des versets bibliques
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Chapelet de Saint Michel Archange
 ## Listes-Associées
+* [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Demande et affiche des passages aléatoires à partir d'une API biblique
 
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - Une liste organisée de ressources et de sites Web impressionnants sur la Bible et les sujets qui y sont liés.
 - [Awesome Theology](https://github.com/historical-theology/awesome-theology) - Une liste organisée de logiciels open source pour la théologie catholique.
