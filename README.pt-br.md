@@ -103,6 +103,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referência digital para a Bíblia Católica com dicas do Dr. Taylor Marshall com versículos da Bíblia
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Terço de São Miguel Arcanjo
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita e exibe passagens aleatórias de uma API da Bíblia
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Uma lista de galeria de todos os 37 Doutores da Igreja com descrições e obras notáveis.
 
 ## Outras listas relacionadas
 

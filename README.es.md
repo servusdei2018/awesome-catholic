@@ -103,6 +103,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Coronilla de San Miguel Arcángel
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita y muestra pasajes aleatorios de una API de la Biblia.
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Una lista de galería de los 37 Doctores de la Iglesia con descripciones y obras notables.
 
 ## Listas-Relacionadas
 
