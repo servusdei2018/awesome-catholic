@@ -103,6 +103,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Chaplet of Saint Michael the Archangel
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Requests and displays random passages from a Bible api
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - A gallary list of all 37 Doctors of the Church with descriptions and notable works.
 
 ## Related-Awesome-Lists
 

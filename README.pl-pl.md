@@ -103,6 +103,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Koronka do św. Michała Archanioła
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
 
 ## Powiązane niesamowite listy
 

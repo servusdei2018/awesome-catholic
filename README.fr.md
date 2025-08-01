@@ -102,6 +102,8 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interface non officielle pour les prières quotidiennes d'Auxilium Christianorum pour les laïcs
 * [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Référence numérique pour la Bible catholique Cheatsheet du Dr Taylor Marshall avec des versets bibliques
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Chapelet de Saint Michel Archange
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Une liste de galerie des 37 docteurs de l'Église avec des descriptions et des œuvres notables.
+
 ## Listes-Associées
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Demande et affiche des passages aléatoires à partir d'une API biblique
 
