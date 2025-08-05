@@ -104,6 +104,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Koronka do św. Michała Archanioła
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
+* [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch to nowoczesny i potężny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych partytur chorału gregoriańskiego.
 
 ## Powiązane niesamowite listy
 
