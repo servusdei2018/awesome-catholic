@@ -104,6 +104,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Coronilla de San Miguel Arcángel
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita y muestra pasajes aleatorios de una API de la Biblia.
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Una lista de galería de los 37 Doctores de la Iglesia con descripciones y obras notables.
+* [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch es una interfaz de búsqueda moderna y potente para GregoBase, una de las bases de datos más grandes de partituras de canto gregoriano.
 
 ## Listas-Relacionadas
 

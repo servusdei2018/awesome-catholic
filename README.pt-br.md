@@ -104,6 +104,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Terço de São Miguel Arcanjo
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita e exibe passagens aleatórias de uma API da Bíblia
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Uma lista de galeria de todos os 37 Doutores da Igreja com descrições e obras notáveis.
+* [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch é uma interface de busca moderna e poderosa para GregoBase, um dos maiores bancos de dados de partituras de canto gregoriano.
 
 ## Outras listas relacionadas
 
