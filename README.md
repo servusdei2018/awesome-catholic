@@ -107,6 +107,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Requests and displays random passages from a Bible api
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - A gallary list of all 37 Doctors of the Church with descriptions and notable works.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - A modern and powerful search interface for GregoBase, one of the largest databases of Gregorian chant scores.
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Tools for gregorian chants, including mass propers.
 
 ## Related-Awesome-Lists
 

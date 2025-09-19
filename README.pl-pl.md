@@ -107,6 +107,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch to nowoczesny i potężny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych partytur chorału gregoriańskiego.
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Narzędzia do chorału gregoriańskiego, w tym lista śpiewów własnych Mszy.
 
 ## Powiązane niesamowite listy
 
