@@ -61,6 +61,8 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [focus-study](https://github.com/rvbcldud/focus-study) - Una colección de estudios bíblicos de FOCUS en formato de folleto.
 * [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore n.° 2 en JSON
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catecismo de San Pío X en JSON
+* [liberius.net](http://liberius.net/) - Libros, artículos y documentos católicos.
+* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Colección de e-books católicos.
 
 ## Hardware
 
