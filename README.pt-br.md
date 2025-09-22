@@ -61,6 +61,8 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [focus-study](https://github.com/rvbcldud/focus-study) - Uma coleção de estudos bíblicos FOCUS em formato de livreto.
 * [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore nº 2 em JSON
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - frontend do Catecismo de São Pio X
+* [liberius.net](http://liberius.net/) - Livros, artigos e documentos católicos.
+* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Coletânea de e-books católicos.
 
 ## Hardware
 
@@ -105,6 +107,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita e exibe passagens aleatórias de uma API da Bíblia
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Uma lista de galeria de todos os 37 Doutores da Igreja com descrições e obras notáveis.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch é uma interface de busca moderna e poderosa para GregoBase, um dos maiores bancos de dados de partituras de canto gregoriano.
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Ferramentas para cantos gregorianos, incluindo lista de cantos próprios para missas.
 
 ## Outras listas relacionadas
 

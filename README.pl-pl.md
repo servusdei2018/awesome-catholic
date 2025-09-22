@@ -61,6 +61,8 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [focus-study](https://github.com/rvbcldud/focus-study) - Zbiór studiów biblijnych FOCUS w formie broszury.
 * [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Katechizm Baltimore nr 2 w JSON
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Katechizm św. Piusa X w formacie JSON
+* [liberius.net](http://liberius.net/) - Książki, artykuły i dokumenty katolickie.
+* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Kolekcja katolickich e-booków.
 
 ## Sprzęt komputerowy
 
@@ -105,6 +107,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch to nowoczesny i potężny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych partytur chorału gregoriańskiego.
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Narzędzia do chorału gregoriańskiego, w tym lista śpiewów własnych Mszy.
 
 ## Powiązane niesamowite listy
 

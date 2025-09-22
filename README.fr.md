@@ -61,6 +61,8 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [focus-study](https://github.com/rvbcldud/focus-study) - Une collection d'études bibliques FOCUS sous forme de livret.
 * [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catéchisme de Baltimore n° 2 en JSON
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catéchisme de saint Pie X en JSON
+* [liberius.net](http://liberius.net/) - Livres, articles et documents catholiques
+* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Collection d’e-books catholiques
 
 ## Matériel
 
@@ -105,6 +107,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Demandez et affichez des passages aléatoires à partir d'une API biblique
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Une liste de galerie des 37 docteurs de l'Église avec des descriptions et des œuvres notables
 * [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch est une interface de recherche moderne et puissante pour GregoBase, l'une des plus grandes bases de données de partitions de chant grégorien
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Outils pour les chants grégoriens, y compris une liste des chants propres pour la messe
 
 ## Listes-Associées
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Demande et affiche des passages aléatoires à partir d'une API biblique
