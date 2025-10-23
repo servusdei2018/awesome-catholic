@@ -30,6 +30,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - A Biblia Sacra Vulgata é um projeto de API RESTful que fornece a Vulgata Latina Original e sua tradução para o inglês. Versão Católica de Domínio Público (CPDV) com notas de estudo.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Ajude as pessoas a superarem seus problemas com frases motivacionais católicas e seculares.
 * [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API de acesso aos versículos da Vulgata Sisto-Clementina traduzidos pelo Padre Matos Soares para o português.
+* [caminho-api](https://github.com/ElderFausto/caminho-api) - Uma API pública, construída com Python e FastAPI, que serve os 999 pontos do livro "Caminho" de São Josemaria Escrivá em português
 
 ## Aplicativos
 
