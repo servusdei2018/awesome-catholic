@@ -54,21 +54,23 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 
 ## Dane
 
-- [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Pełne dzieła św. Tomasza z Akwinu
-- [romanus](https://github.com/borderstech/romanus) - Cały Katechizm Rzymski Soboru Trydenckiego
-- [vulgata](https://github.com/borderstech/vulgata) - Biblia Święta z tekstami w języku angielskim Douay-Rheims i tekstami łacińskimi Clementina Vulgata
-- [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - Katechizm Kościoła Katolickiego w JSON.
-- [pytholic](https://github.com/Medromenax/pytholic) - Pakiet Pythona o tematyce katolickiej
-- [cardinals](https://github.com/ChrisVo/cardinals) - Lista wszystkich kardynałów rzymskokatolickich w formacie json
-- [romcal](https://github.com/romcal/romcal) - Kalendarz liturgiczny używany przez obrządek rzymski (Kościół zachodni) dla Node JS v6 i nowszych.
-- [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generator rzymskokatolickiego kalendarza liturgicznego
-- [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Wydanie Watykanu Graduale Romanum z 1908 r., przepisane w Gregorio 4
-- [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - Katechizm Kościoła Katolickiego, Prawo Kanoniczne i Ogólne wprowadzenie do Mszału Rzymskiego w użytecznym formacie JSON.
-- [focus-study](https://github.com/rvbcldud/focus-study) - Zbiór studiów biblijnych FOCUS w formie broszury.
-- [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Katechizm Baltimore nr 2 w JSON
-- [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Katechizm św. Piusa X w formacie JSON
-- [liberius.net](http://liberius.net/) - Książki, artykuły i dokumenty katolickie.
-- [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Kolekcja katolickich e-booków.
+
+* [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Pełne dzieła św. Tomasza z Akwinu
+* [romanus](https://github.com/borderstech/romanus) - Cały Katechizm Rzymski Soboru Trydenckiego
+* [vulgata](https://github.com/borderstech/vulgata) - Biblia Święta z tekstami w języku angielskim Douay-Rheims i tekstami łacińskimi Clementina Vulgata
+* [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - Katechizm Kościoła Katolickiego w JSON.
+* [pytholic](https://github.com/Medromenax/pytholic) - Pakiet Pythona o tematyce katolickiej
+* [cardinals](https://github.com/ChrisVo/cardinals) - Lista wszystkich kardynałów rzymskokatolickich w formacie json
+* [romcal](https://github.com/romcal/romcal) - Kalendarz liturgiczny używany przez obrządek rzymski (Kościół zachodni) dla Node JS v6 i nowszych.
+* [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generator rzymskokatolickiego kalendarza liturgicznego
+* [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Wydanie Watykanu Graduale Romanum z 1908 r., przepisane w Gregorio 4
+* [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - Katechizm Kościoła Katolickiego, Prawo Kanoniczne i Ogólne wprowadzenie do Mszału Rzymskiego w użytecznym formacie JSON.
+* [focus-study](https://github.com/rvbcldud/focus-study) - Zbiór studiów biblijnych FOCUS w formie broszury.
+* [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Katechizm Baltimore nr 2 w JSON
+* [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Katechizm św. Piusa X w formacie JSON
+* [liberius.net](http://liberius.net/) - Książki, artykuły i dokumenty katolickie.
+* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Kolekcja katolickich e-booków.
+* [Catholic Hierarchy](https://www.catholic-hierarchy.org/) - Aktualne i historyczne informacje o biskupach i diecezjach hierarchii katolickiej na całym świecie.
 
 ## Sprzęt komputerowy
 

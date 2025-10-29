@@ -54,21 +54,22 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
 ## Datos
 
-- [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Las obras completas de Santo Tomás de Aquino
-- [romanus](https://github.com/borderstech/romanus) - Todo el Catecismo Romano del Concilio de Trento
-- [vulgata](https://github.com/borderstech/vulgata) - La Santa Biblia con los textos en inglés de Douay-Rheims y en latín de Clementina Vulgata
-- [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - El Catecismo de la Iglesia Católica en JSON.
-- [pytholic](https://github.com/Medromenax/pytholic) - Paquete Python de temática católica
-- [cardinals](https://github.com/ChrisVo/cardinals) - La lista de todos los cardenales católicos romanos en formato json
-- [romcal](https://github.com/romcal/romcal) - El Calendario Litúrgico utilizado por el Rito Romano (Iglesia Occidental) para Node JS v6 y superior.
-- [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano
-- [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edición Vaticana de 1908 del Graduale Romanum, recomposición de la época de Gregorio 4.
-- [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
-- [focus-study](https://github.com/rvbcldud/focus-study) - Una colección de estudios bíblicos de FOCUS en formato de folleto.
-- [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore n.° 2 en JSON
-- [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catecismo de San Pío X en JSON
-- [liberius.net](http://liberius.net/) - Libros, artículos y documentos católicos.
-- [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Colección de e-books católicos.
+* [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Las obras completas de Santo Tomás de Aquino
+* [romanus](https://github.com/borderstech/romanus) - Todo el Catecismo Romano del Concilio de Trento
+* [vulgata](https://github.com/borderstech/vulgata) - La Santa Biblia con los textos en inglés de Douay-Rheims y en latín de Clementina Vulgata
+* [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - El Catecismo de la Iglesia Católica en JSON.
+* [pytholic](https://github.com/Medromenax/pytholic) - Paquete Python de temática católica
+* [cardinals](https://github.com/ChrisVo/cardinals) - La lista de todos los cardenales católicos romanos en formato json
+* [romcal](https://github.com/romcal/romcal) - El Calendario Litúrgico utilizado por el Rito Romano (Iglesia Occidental) para Node JS v6 y superior.
+* [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano
+* [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edición Vaticana de 1908 del Graduale Romanum, recomposición de la época de Gregorio 4.
+* [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
+* [focus-study](https://github.com/rvbcldud/focus-study) - Una colección de estudios bíblicos de FOCUS en formato de folleto.
+* [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore n.° 2 en JSON
+* [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catecismo de San Pío X en JSON
+* [liberius.net](http://liberius.net/) - Libros, artículos y documentos católicos.
+* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Colección de e-books católicos.
+* [Catholic Hierarchy](https://www.catholic-hierarchy.org/) - Información actual e histórica sobre los obispos y diócesis de la jerarquía católica en todo el mundo.
 
 ## Hardware
 
