@@ -64,6 +64,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catecismo de San Pío X en JSON
 * [liberius.net](http://liberius.net/) - Libros, artículos y documentos católicos.
 * [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Colección de e-books católicos.
+* [Catholic Hierarchy](https://www.catholic-hierarchy.org/) - Información actual e histórica sobre los obispos y diócesis de la jerarquía católica en todo el mundo.
 
 ## Hardware
 
