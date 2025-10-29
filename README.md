@@ -8,107 +8,112 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Contents
 
-  - [APIs](#apis)
-  - [Apps](#apps)
-  - [Command Line](#command-line)
-  - [Data](#data)
-  - [Hardware](#hardware)
-  - [Mobile Apps](#mobile-apps)
-  - [Neovim Plugins](#neovim)
-  - [Web Apps](#web-apps)
-  - [Related Awesome Lists](#related-awesome-lists)
+- [AI](#ai)
+- [APIs](#apis)
+- [Apps](#apps)
+- [Command Line](#command-line)
+- [Data](#data)
+- [Hardware](#hardware)
+- [Mobile Apps](#mobile-apps)
+- [Neovim Plugins](#neovim)
+- [Web Apps](#web-apps)
+- [Related Awesome Lists](#related-awesome-lists)
+
+## AI
+
+- [london-confessions](https://github.com/sf17490/london-confessions) - A web app listing Roman Catholic confession times in Central London (Zone 1). Updated weekly by AI.
 
 ## APIs
 
-* [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) - The holiest lorem ipsum generator on the internet. Use online, or with API.
-* [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Get mass time in your country
-* [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Tamil Bible Database in MySQL with PHP API
-* [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
-* [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
-* [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
-* [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - An API for the daily readings in Portuguese.
-* [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata is a RESTful API project primarily serving the Original Latin Vulgate ( ✝️ Biblia Sacra Vulgata) and its English Translation - Catholic Public Domain Version (CPDV) with study notes.
-* [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Help people overcome their problems with catholic and secular motivational phrases.
-* [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
-* [caminho-api](https://github.com/ElderFausto/caminho-api) - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese
+- [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) - The holiest lorem ipsum generator on the internet. Use online, or with API.
+- [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) - Get mass time in your country
+- [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) - Tamil Bible Database in MySQL with PHP API
+- [church-calendar-api](https://github.com/igneus/church-calendar-api) - RESTful API providing Roman Catholic church calendar data for your apps
+- [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
+- [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
+- [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) - An API for the daily readings in Portuguese.
+- [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) - Biblia Sacra Vulgata is a RESTful API project primarily serving the Original Latin Vulgate ( ✝️ Biblia Sacra Vulgata) and its English Translation - Catholic Public Domain Version (CPDV) with study notes.
+- [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Help people overcome their problems with catholic and secular motivational phrases.
+- [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
+- [caminho-api](https://github.com/ElderFausto/caminho-api) - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese
 
 ## Apps
 
-* [Lectionary](https://github.com/Dev1an/Lectionary) - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
-* [gregorio](https://github.com/gregorio-project/gregorio) - Gregorio is a software application for engraving Gregorian Chant scores on a computer.
+- [Lectionary](https://github.com/Dev1an/Lectionary) - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
+- [gregorio](https://github.com/gregorio-project/gregorio) - Gregorio is a software application for engraving Gregorian Chant scores on a computer.
 
 ## Command Line
 
-* [lectionarium](https://github.com/davidrmcharles/lectionarium) - A tool for studying Ecclesiastical Latin
-* [calrom](https://github.com/calendarium-romanum/calrom) - Liturgical calendar (Ordinary Form)
-* [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
-* [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
-* [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Read the bible in your terminal
-* [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible
-* [christian-fortune](https://github.com/ngorden/christian-fortune) - Classic `fortune` command, with a Christian twist
+- [lectionarium](https://github.com/davidrmcharles/lectionarium) - A tool for studying Ecclesiastical Latin
+- [calrom](https://github.com/calendarium-romanum/calrom) - Liturgical calendar (Ordinary Form)
+- [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
+- [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
+- [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Read the bible in your terminal
+- [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible
+- [christian-fortune](https://github.com/ngorden/christian-fortune) - Classic `fortune` command, with a Christian twist
 
 ## Data
 
-* [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - The full works of St. Thomas Aquinas
-* [romanus](https://github.com/borderstech/romanus) - The entire Roman Catechism of the Council of Trent
-* [vulgata](https://github.com/borderstech/vulgata) - The Holy Bible with both the Douay-Rheims English and Clementina Vulgata Latin texts
-* [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - The Catechism of the Catholic Chruch in JSON.
-* [pytholic](https://github.com/Medromenax/pytholic) - Catholic-themed python package
-* [cardinals](https://github.com/ChrisVo/cardinals) - The list of all Roman Catholic Cardinals in json format
-* [romcal](https://github.com/romcal/romcal) - The Liturgical Calendar used by the Roman Rite (Western Church) for Node JS v6 and above.
-* [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator
-* [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4
-* [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
-* [focus-study](https://github.com/rvbcldud/focus-study) - A collection of FOCUS Bible studies in booklet format.
-* [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Baltimore Catechism No. 2 in JSON
-* [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catechism of St. Pius X frontend
-* [liberius.net](http://liberius.net/) - Catholic books, articles and documents.
-* [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Collection of Catholic e-books.
+- [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - The full works of St. Thomas Aquinas
+- [romanus](https://github.com/borderstech/romanus) - The entire Roman Catechism of the Council of Trent
+- [vulgata](https://github.com/borderstech/vulgata) - The Holy Bible with both the Douay-Rheims English and Clementina Vulgata Latin texts
+- [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - The Catechism of the Catholic Chruch in JSON.
+- [pytholic](https://github.com/Medromenax/pytholic) - Catholic-themed python package
+- [cardinals](https://github.com/ChrisVo/cardinals) - The list of all Roman Catholic Cardinals in json format
+- [romcal](https://github.com/romcal/romcal) - The Liturgical Calendar used by the Roman Rite (Western Church) for Node JS v6 and above.
+- [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator
+- [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4
+- [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
+- [focus-study](https://github.com/rvbcldud/focus-study) - A collection of FOCUS Bible studies in booklet format.
+- [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Baltimore Catechism No. 2 in JSON
+- [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catechism of St. Pius X frontend
+- [liberius.net](http://liberius.net/) - Catholic books, articles and documents.
+- [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Collection of Catholic e-books.
 
 ## Hardware
 
-* [Catholic Lectionary on ESP8266](https://github.com/plishman/Catholic-Lectionary-on-ESP8266) - The Roman Catholic Lectionary, Liturgical Calendar and Feast Days on ESP8266 with Waveshare 2.7" or 4.2" red/black display, generic SD card reader and DS3231 clock IC.
+- [Catholic Lectionary on ESP8266](https://github.com/plishman/Catholic-Lectionary-on-ESP8266) - The Roman Catholic Lectionary, Liturgical Calendar and Feast Days on ESP8266 with Waveshare 2.7" or 4.2" red/black display, generic SD card reader and DS3231 clock IC.
 
 ## Mobile-Apps
 
-* [Catholic Diocese App (Android)](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - A Catholic diocese app for android.
-* [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS.
-* [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app to count daily recitations of the St. Andrew novena prayer, 15 times daily.
-* [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
-* [Prayer Book](https://codeberg.org/jozo/prayer-book) - mobile app with catholic prayers
-* [Rosarium](https://codeberg.org/Krixec/Rosarium) - multilingual rosary app
+- [Catholic Diocese App (Android)](https://github.com/geerlingguy/Catholic-Diocese-App-Android) - A Catholic diocese app for android.
+- [Catholic Diocese App - iOS](https://github.com/geerlingguy/Catholic-Diocese-App-iOS) - A Catholic diocese app for iOS.
+- [St. Andrew Novena Mobile App](https://github.com/mftruso/st-andrew-novena) - Flutter app to count daily recitations of the St. Andrew novena prayer, 15 times daily.
+- [Mariam](https://github.com/aldrinzigmundv/mariam) - meditative rosary app that enables believers to pray the Rosary
+- [Prayer Book](https://codeberg.org/jozo/prayer-book) - mobile app with catholic prayers
+- [Rosarium](https://codeberg.org/Krixec/Rosarium) - multilingual rosary app
 
 ## Neovim
 
-* [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - Neovim plugin to practice lectio divina
+- [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - Neovim plugin to practice lectio divina
 
 ## Web-Apps
 
-* [missal.io](https://github.com/benyanke/missal.io) - A Catholic Sunday hand missal web app for the Traditional Latin Mass
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The traditional divine office.
-* [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
-* [Citation Generator](https://github.com/matefs/Citation-Generator) - Create quotes from Saints, the Bible or any based author.
-* [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
-* [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
-* [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
-* [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Display the Ember Days for a given year.
-* [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - A progressive web app designed to help Roman Catholics pray the Rosary. Demo at https://prayrosary.netlify.app/
-* [Oficjum](https://github.com/anna-wro/rkk) - A progressive web application that provides daily liturgical texts for the Liturgy of the Hours in Polish. Demo at https://oficjum.starokatolicy.eu/
-* [Rosarium](https://github.com/leozamboni/Rosarium) - Web application designed to help Catholics pray the Holy Rosary in Latin in an interactive and immersive way through 3D models of Catholic churches generated through photogrammetry. Demo: https://leozamboni.github.io/Rosarium
-* [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Web application to assist in the devotion of Los Mil Jesús.
-* [Domus](https://github.com/leozamboni/Domus) - Web application designed to visit churches around the world through 3D models generated by photogrammetry. Demo: https://leozamboni.github.io/Domus
-* [Missale Meum](https://github.com/mmolenda/missalemeum) - 1962 Roman Catholic Missal for the Traditional Latin Mass
-* [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
-* [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - The Code of Canon Law, with searching capability
-* [Catechism](https://github.com/nossbigg/catechism) -  The Catechism of the Catholic Church, modernised ⭐️⛪️
-* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Traditional Catholic quote collection about the fewness of the saved, the rosary, and the use of Latin.
-* [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Unofficial frontend for the daily Auxilium Christianorum prayers for the laity
-* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
-* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Chaplet of Saint Michael the Archangel
-* [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Requests and displays random passages from a Bible api
-* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - A gallary list of all 37 Doctors of the Church with descriptions and notable works.
-* [GregoSearch](https://busca.liturgiacantada.com.br) - A modern and powerful search interface for GregoBase, one of the largest databases of Gregorian chant scores.
-* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Tools for gregorian chants, including mass propers.
+- [missal.io](https://github.com/benyanke/missal.io) - A Catholic Sunday hand missal web app for the Traditional Latin Mass
+- [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The traditional divine office.
+- [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
+- [Citation Generator](https://github.com/matefs/Citation-Generator) - Create quotes from Saints, the Bible or any based author.
+- [theocrone](https://github.com/paucazou/theochrone) - A calendar for the Tridentine rite. Demo at http://theochrone.fr
+- [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
+- [Confessit](https://github.com/kas-catholic/confessit-web) - A progressive web app designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
+- [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Display the Ember Days for a given year.
+- [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - A progressive web app designed to help Roman Catholics pray the Rosary. Demo at https://prayrosary.netlify.app/
+- [Oficjum](https://github.com/anna-wro/rkk) - A progressive web application that provides daily liturgical texts for the Liturgy of the Hours in Polish. Demo at https://oficjum.starokatolicy.eu/
+- [Rosarium](https://github.com/leozamboni/Rosarium) - Web application designed to help Catholics pray the Holy Rosary in Latin in an interactive and immersive way through 3D models of Catholic churches generated through photogrammetry. Demo: https://leozamboni.github.io/Rosarium
+- [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Web application to assist in the devotion of Los Mil Jesús.
+- [Domus](https://github.com/leozamboni/Domus) - Web application designed to visit churches around the world through 3D models generated by photogrammetry. Demo: https://leozamboni.github.io/Domus
+- [Missale Meum](https://github.com/mmolenda/missalemeum) - 1962 Roman Catholic Missal for the Traditional Latin Mass
+- [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
+- [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - The Code of Canon Law, with searching capability
+- [Catechism](https://github.com/nossbigg/catechism) - The Catechism of the Catholic Church, modernised ⭐️⛪️
+- [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Traditional Catholic quote collection about the fewness of the saved, the rosary, and the use of Latin.
+- [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Unofficial frontend for the daily Auxilium Christianorum prayers for the laity
+- [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses
+- [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Chaplet of Saint Michael the Archangel
+- [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Requests and displays random passages from a Bible api
+- [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - A gallary list of all 37 Doctors of the Church with descriptions and notable works.
+- [GregoSearch](https://busca.liturgiacantada.com.br) - A modern and powerful search interface for GregoBase, one of the largest databases of Gregorian chant scores.
+- [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Tools for gregorian chants, including mass propers.
 
 ## Related-Awesome-Lists
 
