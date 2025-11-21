@@ -110,6 +110,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - A gallary list of all 37 Doctors of the Church with descriptions and notable works.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - A modern and powerful search interface for GregoBase, one of the largest databases of Gregorian chant scores.
 * [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Tools for gregorian chants, including mass propers.
+* [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Site to consult the Index Librorum Prohibitorum, books a Catholic should read with caution. Demo at https://leozamboni.github.io/index-librorum-prohibitorum/
 
 ## Related-Awesome-Lists
 
