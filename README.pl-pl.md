@@ -110,6 +110,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch to nowoczesny i potężny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych partytur chorału gregoriańskiego.
 * [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Narzędzia do chorału gregoriańskiego, w tym lista śpiewów własnych Mszy.
+* [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Strona do konsultacji Index Librorum Prohibitorum, książek które katolik powinien czytać z ostrożnością. Demo na https://leozamboni.github.io/index-librorum-prohibitorum/
 
 ## Powiązane niesamowite listy
 

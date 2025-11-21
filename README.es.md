@@ -110,6 +110,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Una lista de galería de los 37 Doctores de la Iglesia con descripciones y obras notables.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch es una interfaz de búsqueda moderna y potente para GregoBase, una de las bases de datos más grandes de partituras de canto gregoriano.
 * [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Herramientas para cantos gregorianos, incluida una lista de los cantos propios para la misa.
+* [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Sitio para consultar el Index Librorum Prohibitorum, libros que un católico debe leer con precaución. Demo en https://leozamboni.github.io/index-librorum-prohibitorum/
 
 ## Listas-Relacionadas
 
