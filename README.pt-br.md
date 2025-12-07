@@ -43,6 +43,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 ## IA
 
 - [london-confessions](https://github.com/sf17490/london-confessions) - Um aplicativo da web listando os horários de confissão católica romana no centro de Londres (Zona 1). Atualizado semanalmente por IA.
+- [liturgical-calendar-mcp](https://github.com/CatholicOS/liturgical-calendar-mcp) - Um servidor MCP (Model Context Protocol) que permitirá que agentes de IA interajam com a API do Calendário Litúrgico.
 
 ## Linha de Comando
 

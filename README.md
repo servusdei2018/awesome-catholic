@@ -22,6 +22,7 @@ A curated list of awesome Catholic projects, libraries and software.
 ## AI
 
 - [london-confessions](https://github.com/sf17490/london-confessions) - A web app listing Roman Catholic confession times in Central London (Zone 1). Updated weekly by AI.
+- [liturgical-calendar-mcp](https://github.com/CatholicOS/liturgical-calendar-mcp) - Un serveur MCP (Model Context Protocol) qui permettra aux agents IA d'interagir avec l'API Liturgical Calendar.
 
 ## APIs
 

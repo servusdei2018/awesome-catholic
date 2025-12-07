@@ -22,6 +22,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 ## SI
 
 - [london-confessions](https://github.com/sf17490/london-confessions) - Aplikacja internetowa z listą godzin spowiedzi rzymskokatolickiej w centrum Londynu (strefa 1). Aktualizowany co tydzień przez sztuczną inteligencję.
+- [liturgical-calendar-mcp](https://github.com/CatholicOS/liturgical-calendar-mcp) - Serwer MCP (Model Context Protocol), który pozwoli agentom AI na interakcję z API Liturgical Calendar.
 
 ## APIs
 

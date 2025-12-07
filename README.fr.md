@@ -41,6 +41,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 ## IA
 
 - [london-confessions](https://github.com/sf17490/london-confessions) - Une application web répertoriant les heures de confession catholique romaine dans le centre de Londres (zone 1). Mis à jour chaque semaine par l'IA.
+- [liturgical-calendar-mcp](https://github.com/CatholicOS/liturgical-calendar-mcp)
 
 ## Ligne-de-Commande
 
