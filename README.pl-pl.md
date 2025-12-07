@@ -91,31 +91,32 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 
 ## Internetowe aplikacje
 
-- [missal.io](https://github.com/benyanke/missal.io) - Katolicka aplikacja internetowa dotycząca mszy niedzielnych do tradycyjnej Mszy łacińskiej
-- [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - Tradycyjne boskie urząd.
-- [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Pobiera codzienne odczyty mszy z API EWTN, codzienne modlitwy katolickie i poznaj swoją wiarę; obejmuje modlitwy katolickie.
-- [Citation Generator](https://github.com/matefs/Citation-Generator) - Twórz cytaty ze świętych, Biblii lub dowolnego autora.
-- [theocrone](https://github.com/paucazou/theochrone) - Kalendarz obrządku trydenckiego. Demo na http://theochrone.fr
-- [Easter dates](https://easter-dates.gavinr.com/) - Wizualizacja rozkładu Wielkanocy według daty na przestrzeni lat.
-- [Confessit](https://github.com/kas-catholic/confessit-web) - Postępowa aplikacja internetowa zaprojektowana, aby pomóc katolikom przygotować się do sakramentu spowiedzi poprzez rachunek sumienia.
-- [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Wyświetla dni suche w danym roku.
-- [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Postępowa aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać różaniec. Demo na https://prayrosary.netlify.app/
-- [Oficjum](https://github.com/anna-wro/rkk) - Progresywna aplikacja internetowa udostępniająca codzienne teksty liturgiczne do Liturgii Godzin. Demo na https://oficjum.starokatolicy.eu/
-- [Rosarium](https://github.com/leozamboni/Rosarium) - Aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać Różaniec Święty po łacinie w interaktywny i wciągający sposób poprzez modele 3D kościołów katolickich wygenerowane za pomocą fotogrametrii. Demo: https://leozamboni.github.io/Rosarium
-- [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplikacja internetowa pomagająca w nabożeństwie Los Mil Jesús.
-- [Domus](https://github.com/leozamboni/Domus) - Aplikacja internetowa przeznaczona do odwiedzania Kościołów na całym świecie poprzez modele 3D generowane metodą fotogrametrii. Demo: https://leozamboni.github.io/Domus
-- [Missale Meum](https://github.com/mmolenda/missalemeum) - Mszał rzymskokatolicki z 1962 r. do tradycyjnej mszy łacińskiej
-- [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Tworzenie interaktywnych i statycznych map diecezji, prowincji i katedr katolickich obrządku łacińskiego w Stanach Zjednoczonych.
-- [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Kodeks Prawa Kanonicznego z możliwością wyszukiwania
-- [Catechism](https://github.com/nossbigg/catechism) - Katechizm Kościoła Katolickiego, zmodernizowany ⭐️⛪️
-- [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Zbiór tradycyjnych cytatów katolickich na temat małej liczby zbawionych, różańca i używania łaciny.
-- [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Nieoficjalna strona internetowa codziennych modlitw Auxilium Christianorum dla świeckich
-- [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
-- [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Koronka do św. Michała Archanioła
-- [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
-- [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
-- [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch to nowoczesny i potężny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych partytur chorału gregoriańskiego.
-- [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Narzędzia do chorału gregoriańskiego, w tym lista śpiewów własnych Mszy.
+* [missal.io](https://github.com/benyanke/missal.io) - Katolicka aplikacja internetowa dotycząca mszy niedzielnych do tradycyjnej Mszy łacińskiej
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - Tradycyjne boskie urząd.
+* [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Pobiera codzienne odczyty mszy z API EWTN, codzienne modlitwy katolickie i poznaj swoją wiarę; obejmuje modlitwy katolickie.
+* [Citation Generator](https://github.com/matefs/Citation-Generator) - Twórz cytaty ze świętych, Biblii lub dowolnego autora.
+* [theocrone](https://github.com/paucazou/theochrone) - Kalendarz obrządku trydenckiego. Demo na http://theochrone.fr
+* [Easter dates](https://easter-dates.gavinr.com/) - Wizualizacja rozkładu Wielkanocy według daty na przestrzeni lat.
+* [Confessit](https://github.com/kas-catholic/confessit-web) - Postępowa aplikacja internetowa zaprojektowana, aby pomóc katolikom przygotować się do sakramentu spowiedzi poprzez rachunek sumienia.
+* [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Wyświetla dni suche w danym roku.
+* [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Postępowa aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać różaniec. Demo na https://prayrosary.netlify.app/
+* [Oficjum](https://github.com/anna-wro/rkk) - Progresywna aplikacja internetowa udostępniająca codzienne teksty liturgiczne do Liturgii Godzin. Demo na https://oficjum.starokatolicy.eu/
+* [Rosarium](https://github.com/leozamboni/Rosarium) - Aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać Różaniec Święty po łacinie w interaktywny i wciągający sposób poprzez modele 3D kościołów katolickich wygenerowane za pomocą fotogrametrii. Demo: https://leozamboni.github.io/Rosarium
+* [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplikacja internetowa pomagająca w nabożeństwie Los Mil Jesús.
+* [Domus](https://github.com/leozamboni/Domus) - Aplikacja internetowa przeznaczona do odwiedzania Kościołów na całym świecie poprzez modele 3D generowane metodą fotogrametrii. Demo: https://leozamboni.github.io/Domus
+* [Missale Meum](https://github.com/mmolenda/missalemeum) - Mszał rzymskokatolicki z 1962 r. do tradycyjnej mszy łacińskiej
+* [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Tworzenie interaktywnych i statycznych map diecezji, prowincji i katedr katolickich obrządku łacińskiego w Stanach Zjednoczonych.
+* [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Kodeks Prawa Kanonicznego z możliwością wyszukiwania
+* [Catechism](https://github.com/nossbigg/catechism) - Katechizm Kościoła Katolickiego, zmodernizowany ⭐️⛪️
+* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Zbiór tradycyjnych cytatów katolickich na temat małej liczby zbawionych, różańca i używania łaciny.
+* [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Nieoficjalna strona internetowa codziennych modlitw Auxilium Christianorum dla świeckich
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Cyfrowe odniesienie do katolickiej Biblii ściągawka dr Taylora Marshalla z wersetami biblijnymi
+* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Koronka do św. Michała Archanioła
+* [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Żąda i wyświetla losowe fragmenty z API Biblii
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Lista wszystkich 37 Doktorów Kościoła wraz z opisami i najważniejszymi dziełami.
+* [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch to nowoczesny i potężny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych partytur chorału gregoriańskiego.
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Narzędzia do chorału gregoriańskiego, w tym lista śpiewów własnych Mszy.
+* [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Strona do konsultacji Index Librorum Prohibitorum, książek które katolik powinien czytać z ostrożnością. Demo na https://leozamboni.github.io/index-librorum-prohibitorum/
 
 ## Powiązane niesamowite listy
 

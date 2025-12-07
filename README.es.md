@@ -90,31 +90,32 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 
 ## Aplicaciones-web
 
-- [missal.io](https://github.com/benyanke/missal.io) - Una aplicación web católica de misal de mano dominical para la misa tradicional en latín
-- [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - El oficio divino tradicional.
-- [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Obtiene lecturas diarias de la misa de EWTN API, oraciones católicas diarias y Know your Faith; incluye oraciones católicas.
-- [Citation Generator](https://github.com/matefs/Citation-Generator) - Crea citas de Santos, la Biblia o cualquier autor basado.
-- [theocrone](https://github.com/paucazou/theochrone) - Un calendario para el rito tridentino. Demo en http://theochrone.fr
-- [Easter dates](https://easter-dates.gavinr.com/) - Distribución de la Pascua por fecha a lo largo de los años, visualizada.
-- [Confessit](https://github.com/kas-catholic/confessit-web) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a prepararse para el sacramento de la confesión examinando su conciencia.
-- [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Muestra los días de témporas de un año determinado.
-- [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a rezar el Rosario. Demo en https://prayrosary.netlify.app/
-- [Oficjum](https://github.com/anna-wro/rkk) - Una aplicación web progresiva que proporciona textos litúrgicos diarios para la Liturgia de las Horas en polaco. Demostración en https://oficjum.starokatolicy.eu/
-- [Rosarium](https://github.com/leozamboni/Rosarium) - Aplicación web diseñada para ayudar a los católicos a rezar el Santo Rosario en latín de forma interactiva e inmersiva a través de modelos 3D de iglesias católicas generados mediante fotogrametría. Demostración: https://leozamboni.github.io/Rosarium
-- [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplicación web para ayudar en la devoción de Los Mil Jesús.
-- [Domus](https://github.com/leozamboni/Domus) - Aplicación web diseñada para visitar Iglesias de todo el mundo a través de modelos 3D generados por fotogrametría. Demo: https://leozamboni.github.io/Domus
-- [Missale Meum](https://github.com/mmolenda/missalemeum) - Misal católico romano de 1962 para la misa tradicional en latín
-- [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Crear mapas interactivos y estáticos de las diócesis, provincias y catedrales católicas de rito latino en los Estados Unidos.
-- [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Derecho canónico, con capacidad de búsqueda
-- [Catechism](https://github.com/nossbigg/catechism) - El Catecismo de la Iglesia Católica, modernizado ⭐️⛪️
-- [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) - Colección de citas católicas tradicionales sobre los pocos salvados, el rosario y el uso del latín.
-- [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interfaz no oficial para las oraciones diarias de Auxilium Christianorum para los laicos
-- [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
-- [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Coronilla de San Miguel Arcángel
-- [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita y muestra pasajes aleatorios de una API de la Biblia.
-- [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Una lista de galería de los 37 Doctores de la Iglesia con descripciones y obras notables.
-- [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch es una interfaz de búsqueda moderna y potente para GregoBase, una de las bases de datos más grandes de partituras de canto gregoriano.
-- [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Herramientas para cantos gregorianos, incluida una lista de los cantos propios para la misa.
+* [missal.io](https://github.com/benyanke/missal.io) - Una aplicación web católica de misal de mano dominical para la misa tradicional en latín
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - El oficio divino tradicional.
+* [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) - Obtiene lecturas diarias de la misa de EWTN API, oraciones católicas diarias y Know your Faith; incluye oraciones católicas.
+* [Citation Generator](https://github.com/matefs/Citation-Generator) - Crea citas de Santos, la Biblia o cualquier autor basado.
+* [theocrone](https://github.com/paucazou/theochrone) - Un calendario para el rito tridentino. Demo en http://theochrone.fr
+* [Easter dates](https://easter-dates.gavinr.com/) - Distribución de la Pascua por fecha a lo largo de los años, visualizada.
+* [Confessit](https://github.com/kas-catholic/confessit-web) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a prepararse para el sacramento de la confesión examinando su conciencia.
+* [Ember Days](https://github.com/saint-isidore-guild/ember-days) - Muestra los días de témporas de un año determinado.
+* [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Una aplicación web progresiva diseñada para ayudar a los católicos romanos a rezar el Rosario. Demo en https://prayrosary.netlify.app/
+* [Oficjum](https://github.com/anna-wro/rkk) - Una aplicación web progresiva que proporciona textos litúrgicos diarios para la Liturgia de las Horas en polaco. Demostración en https://oficjum.starokatolicy.eu/
+* [Rosarium](https://github.com/leozamboni/Rosarium) - Aplicación web diseñada para ayudar a los católicos a rezar el Santo Rosario en latín de forma interactiva e inmersiva a través de modelos 3D de iglesias católicas generados mediante fotogrametría. Demostración: https://leozamboni.github.io/Rosarium
+* [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplicación web para ayudar en la devoción de Los Mil Jesús.
+* [Domus](https://github.com/leozamboni/Domus) - Aplicación web diseñada para visitar Iglesias de todo el mundo a través de modelos 3D generados por fotogrametría. Demo: https://leozamboni.github.io/Domus
+* [Missale Meum](https://github.com/mmolenda/missalemeum) - Misal católico romano de 1962 para la misa tradicional en latín
+* [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) - Crear mapas interactivos y estáticos de las diócesis, provincias y catedrales católicas de rito latino en los Estados Unidos.
+* [Code of Canon Law](https://github.com/shineministry/codeofcanonlaw) - Derecho canónico, con capacidad de búsqueda
+* [Catechism](https://github.com/nossbigg/catechism) - El Catecismo de la Iglesia Católica, modernizado ⭐️⛪️
+* [TradCatholicQuotes](https://github.com/nonnobisdomine62/tradcathquotes) -  Colección de citas católicas tradicionales sobre los pocos salvados, el rosario y el uso del latín.
+* [auxilium-christianorum](https://github.com/nonnobisdomine62/auxilium-christianorum-frontend) - Interfaz no oficial para las oraciones diarias de Auxilium Christianorum para los laicos
+* [catholic-bible-cheatsheet](https://github.com/nonnobisdomine62/catholic-bible-cheatsheet) - Referencia digital para la Biblia católica: Hoja de referencia del Dr. Taylor Marshall con versículos bíblicos
+* [St Michael Chaplet](https://github.com/port19x/StMichaelChaplet) - Coronilla de San Miguel Arcángel
+* [random-bible-verses](https://github.com/rat9615/random-bible-verses/) - Solicita y muestra pasajes aleatorios de una API de la Biblia.
+* [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) - Una lista de galería de los 37 Doctores de la Iglesia con descripciones y obras notables.
+* [GregoSearch](https://busca.liturgiacantada.com.br) - GregoSearch es una interfaz de búsqueda moderna y potente para GregoBase, una de las bases de datos más grandes de partituras de canto gregoriano.
+* [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Herramientas para cantos gregorianos, incluida una lista de los cantos propios para la misa.
+* [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Sitio para consultar el Index Librorum Prohibitorum, libros que un católico debe leer con precaución. Demo en https://leozamboni.github.io/index-librorum-prohibitorum/
 
 ## Listas-Relacionadas
 
