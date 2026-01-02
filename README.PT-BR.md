@@ -2,7 +2,7 @@
 
 Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 
-[En français](https://github.com/servusdei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusdei2018/awesome-catholic/blob/master/README.es.md) | [Em português](https://github.com/servusdei2018/awesome-catholic/blob/master/README.pt-br.md) | [Po polsku](https://github.com/servusdei2018/awesome-catholic/blob/master/README.pl-pl.md)
+[En français](https://github.com/servusdei2018/awesome-catholic/blob/master/README.FR.md) | [En español](https://github.com/servusdei2018/awesome-catholic/blob/master/README.ES.md) | [Em português](https://github.com/servusdei2018/awesome-catholic/blob/master/README.PT-BR.md) | [Po polsku](https://github.com/servusdei2018/awesome-catholic/blob/master/README.PL-PL.md)
 
 ## Contents
 
