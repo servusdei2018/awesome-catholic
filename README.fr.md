@@ -8,6 +8,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 
 ## Contents
 
+- [IA](#ia)
 - [APIs](#apis)
 - [Applications](#applications)
 - [Ligne de Commande](#ligne-de-commande)
@@ -17,6 +18,11 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 - [Neovim Plugin](#neovim)
 - [Web Apps](#web-apps)
 - [Listes-Associées](#listes-associées)
+
+## IA
+
+- [london-confessions](https://github.com/sf17490/london-confessions) - Une application web répertoriant les heures de confession catholique romaine dans le centre de Londres (zone 1). Mis à jour chaque semaine par l'IA.
+- [liturgical-calendar-mcp](https://github.com/CatholicOS/liturgical-calendar-mcp) - Un serveur MCP (Model Context Protocol) qui permettra aux agents d'IA d'interagir avec l'API du calendrier liturgique.
 
 ## APIs
 

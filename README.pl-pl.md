@@ -8,6 +8,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 
 ## Zawartość
 
+- [AI](#ai)
 - [APIs](#apis)
 - [Aplikacje](#aplikacje)
 - [Wiersz poleceń](#wiersz-poleceń)
@@ -17,6 +18,11 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Neovim Plugin](#neovim)
 - [Internetowe aplikacje](#internetowe-aplikacje)
 - [Powiązane niesamowite listy](#powiązane-niesamowite-listy)
+
+# AI
+
+- [london-confessions](https://github.com/sf17490/london-confessions) - Aplikacja internetowa zawierająca listę godzin spowiedzi w kościołach rzymskokatolickich w centrum Londynu (strefa 1). Aktualizowana co tydzień przez sztuczną inteligencję.
+- [liturgical-calendar-mcp](https://github.com/CatholicOS/liturgical-calendar-mcp) - Serwer MCP (Model Context Protocol), który umożliwi agentom sztucznej inteligencji interakcję z interfejsem API kalendarza liturgicznego.
 
 ## APIs
 
