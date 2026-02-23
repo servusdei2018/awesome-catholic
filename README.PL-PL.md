@@ -50,6 +50,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Przeczytaj Biblię w swoim terminalu.
 - [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Równoległe tłumaczenie łacińskiej Wulgaty i Biblii Douay Rheims.
 - [christian-fortune](https://github.com/ngorden/christian-fortune) - Klasyczne polecenie "fortune" z chrześcijańskim akcentem.
+- [tandem](https://github.com/teamdei/tandem) - Szybki, wieloplatformowy, lekki, interaktywny czytnik tekstów łacińskich.
 
 ## Dane
 

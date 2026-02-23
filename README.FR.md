@@ -50,6 +50,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 - [sacra-scriptura](https://github.com/ngorden/sacra-scriptura) - Lis la Bible dans votre terminal.
 - [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traduction côte à côte de la Vulgate latine et de la bible Douay Reims.
 - [christian-fortune](https://github.com/ngorden/christian-fortune) - Commande classique « fortune », avec une touche chrétienne.
+- [tandem](https://github.com/teamdei/tandem) - Lecteur de latin interactif, rapide, multiplateforme et léger.
 
 ## Les-Données
 
