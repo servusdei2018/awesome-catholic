@@ -119,6 +119,8 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Strona do konsultacji Index Librorum Prohibitorum, książek które katolik powinien czytać z ostrożnością. Demo na https://leozamboni.github.io/index-librorum-prohibitorum/.
 - [Bible Daily (bibdle)](https://bibdle.com/) - Codzienna gra biblijna. Podobna do Wordle, ale o tematyce biblijnej.
 - [Lo-fi Byzantine Music Radio](https://orthodox.cafe/) - Muzyka bizantyjska, przy której można się zrelaksować, uczyć lub modlić.
+- [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Strona internetowa kościoła św. Karola katalogująca cuda eucharystyczne na świecie.
+- [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Strona internetowa kościoła św. Karola poświęcona objawieniom maryjnym uznanym przez Kościół katolicki.
 
 ## Powiązane niesamowite listy
 
