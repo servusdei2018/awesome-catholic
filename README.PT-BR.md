@@ -39,6 +39,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 ## Aplicativos
 
 - [Lectionary](https://github.com/Dev1an/Lectionary) - Um aplicativo projetado para ter as leituras diárias em vários idiomas na palma da mão. É possível exportar o conteúdo para JSON e criar livretos para Nightfever Leuven.
+- [Little Office](https://apps.apple.com/us/app/the-little-office/id6746760526) - O Pequeno Ofício da Bem-Aventurada Virgem Maria para iOS, desenvolvido com uma interface de usuário elegante e fácil de usar. Versão para Android em breve!
 - [gregorio](https://github.com/gregorio-project/gregorio) - Software para gravar partituras de cantos gregorianos no computador.
 
 ## Linha de Comando

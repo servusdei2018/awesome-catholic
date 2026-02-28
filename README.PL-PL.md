@@ -39,6 +39,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 ## Aplikacje
 
 - [Lectionary](https://github.com/Dev1an/Lectionary) - Pięknie zaprojektowana aplikacja do przeglądania codziennych odczytów w różnych językach. Można eksportować JSON w celu tworzenia broszur dla Nightfever Leuven.
+- [Little Office](https://apps.apple.com/us/app/the-little-office/id6746760526) - Małe Oficjum ku czci Najświętszej Maryi Panny na iOS, z eleganckim i łatwym w obsłudze interfejsem użytkownika. Wkrótce także na Androida!
 - [gregorio](https://github.com/gregorio-project/gregorio) - Aplikacja służąca do grawerowania nut chorału gregoriańskiego na komputerze.
 
 ## Wiersz poleceń
