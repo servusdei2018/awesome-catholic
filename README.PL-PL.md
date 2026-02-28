@@ -117,6 +117,8 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [GregoSearch](https://busca.liturgiacantada.com.br) - Nowoczesny i wydajny interfejs wyszukiwania dla GregoBase, jednej z największych baz danych nut chorału gregoriańskiego.
 - [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Narzędzia do chorału gregoriańskiego, w tym lista śpiewów własnych Mszy.
 - [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Strona do konsultacji Index Librorum Prohibitorum, książek które katolik powinien czytać z ostrożnością. Demo na https://leozamboni.github.io/index-librorum-prohibitorum/.
+- [Bible Daily (bibdle)](https://bibdle.com/) - Codzienna gra biblijna. Podobna do Wordle, ale o tematyce biblijnej.
+- [Lo-fi Byzantine Music Radio](https://orthodox.cafe/) - Muzyka bizantyjska, przy której można się zrelaksować, uczyć lub modlić.
 
 ## Powiązane niesamowite listy
 

@@ -117,6 +117,8 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [GregoSearch](https://busca.liturgiacantada.com.br) - Una interfaz de búsqueda moderna y potente para GregoBase, una de las bases de datos más grandes de partituras de canto gregoriano.
 - [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Herramientas para cantos gregorianos, incluida una lista de los cantos propios para la misa.
 - [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Sitio para consultar el Index Librorum Prohibitorum, libros que un católico debe leer con precaución. Demo en https://leozamboni.github.io/index-librorum-prohibitorum/.
+- [Bible Daily (bibdle)](https://bibdle.com/) - Un juego bíblico diario. Como Wordle, pero con temática bíblica.
+- [Lo-fi Byzantine Music Radio](https://orthodox.cafe/) - Paisaje sonoro de música bizantina para relajarse, estudiar o rezar.
 
 ## Listas-Relacionadas
 
