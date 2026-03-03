@@ -118,7 +118,6 @@ A curated list of awesome Catholic projects, libraries and software.
 - [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Tools for gregorian chants, including mass propers.
 - [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) - Site to consult the Index Librorum Prohibitorum, books a Catholic should read with caution. Demo at https://leozamboni.github.io/index-librorum-prohibitorum/.
 - [Bible Daily (bibdle)](https://bibdle.com/) - A daily bible game. Like Wordle, but Bible-themed.
-- [Lo-fi Byzantine Music Radio](https://orthodox.cafe/) - Byzantine music soundscape to relax, study, or pray to.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - St. Carlo's website cataloguing the world's Eucharistic miracles.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - St. Carlo's website of Marian apparitions recognized by the Catholic Church.
 
