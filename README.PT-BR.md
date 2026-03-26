@@ -120,6 +120,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 - [Bible Daily (bibdle)](https://bibdle.com/) - Um jogo bíblico diário. Semelhante ao Wordle, mas com temática bíblica.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Site da Igreja de São Carlos catalogando os milagres eucarísticos do mundo.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Site da Catedral de São Carlos sobre aparições marianas reconhecidas pela Igreja Católica.
+- [biblos.app](https://github.com/dssjon/biblos) - Pesquisa semântica e análise multicamadas da Bíblia. Demo em https://www.biblos.app.
 
 ## Outras listas relacionadas
 

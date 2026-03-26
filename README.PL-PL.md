@@ -120,6 +120,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Bible Daily (bibdle)](https://bibdle.com/) - Codzienna gra biblijna. Podobna do Wordle, ale o tematyce biblijnej.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Strona internetowa kościoła św. Karola katalogująca cuda eucharystyczne na świecie.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Strona internetowa kościoła św. Karola poświęcona objawieniom maryjnym uznanym przez Kościół katolicki.
+- [biblos.app](https://github.com/dssjon/biblos) - Semantic Bible Search and Multi-Layered Analysis. Demo at https://www.biblos.app.
 
 ## Powiązane niesamowite listy
 

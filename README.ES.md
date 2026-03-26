@@ -120,6 +120,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [Bible Daily (bibdle)](https://bibdle.com/) - Un juego bíblico diario. Como Wordle, pero con temática bíblica.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Sitio web de San Carlo que cataloga los milagros eucarísticos del mundo.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Sitio web de San Carlo sobre apariciones marianas reconocidas por la Iglesia Católica.
+- [biblos.app](https://github.com/dssjon/biblos) - Búsqueda semántica de la Biblia y análisis multicapa. Demostración en https://www.biblos.app.
 
 ## Listas-Relacionadas
 

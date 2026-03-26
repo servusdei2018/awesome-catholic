@@ -120,6 +120,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 - [Bible Daily (bibdle)](https://bibdle.com/) - Un jeu biblique quotidien. Comme Wordle, mais sur le thème de la Bible.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Le site web de Saint-Carlo recensant les miracles eucharistiques du monde entier.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Site web de Saint Carlo sur les apparitions mariales reconnues par l'Église catholique.
+- [biblos.app](https://github.com/dssjon/biblos) - Recherche sémantique et analyse multicouche de la Bible. Démonstration sur https://www.biblos.app.
 
 ## Listes-Associées
 
