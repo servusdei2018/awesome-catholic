@@ -71,6 +71,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [liberius.net](http://liberius.net/) - Libros, artículos y documentos católicos.
 - [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary&panel=book_list) - Colección de e-books católicos.
 - [Catholic Hierarchy](https://www.catholic-hierarchy.org/) - Información actual e histórica sobre los obispos y diócesis de la jerarquía católica en todo el mundo.
+- [Wikitólica Datos Abiertos](https://www.wikitolica.com/d/datos-abiertos/) - Información estructurada de +4000 elementos enciclopédicos sobre el católicismo.
 
 ## Hardware
 
@@ -121,6 +122,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Sitio web de San Carlo que cataloga los milagros eucarísticos del mundo.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Sitio web de San Carlo sobre apariciones marianas reconocidas por la Iglesia Católica.
 - [biblos.app](https://github.com/dssjon/biblos) - Búsqueda semántica de la Biblia y análisis multicapa. Demostración en https://www.biblos.app.
+- [Enciclopedia Católica Wikitólica](https://www.wikitolica.com/) - Enciclopedia Católica online y gratuita con información sobre más de 4.000 elementos del catolicismo.
 
 ## Listas-Relacionadas
 
