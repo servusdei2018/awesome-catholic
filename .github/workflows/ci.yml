@@ -2,7 +2,7 @@ name: CI
 on:
   push:
   pull_request:
-    branches: [main]
+    branches: [master]
 jobs:
   awesome_lint:
     runs-on: ubuntu-latest
