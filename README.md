@@ -127,7 +127,6 @@ A curated list of awesome Catholic projects, libraries and software.
 - [Documentos Católicos Fundamentais](https://documentos-catolicos-fundamentais.pt) - A collection of fundamental Catholic documents (Portuguese).
 - [HorariosMissas](https://horariosmissas.pt) - A free, ad-free directory of Catholic Mass times for parishes across Portugal and its islands.
 
-
 ## Related-Awesome-Lists
 
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - A curated list of awesome resources and websites about the Bible and topics related to it.
