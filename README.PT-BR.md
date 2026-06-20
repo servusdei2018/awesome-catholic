@@ -84,6 +84,8 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 - [Mariam](https://github.com/aldrinzigmundv/mariam) - Aplicativo de rosário meditativo que permite aos crentes rezar o Rosário.
 - [Prayer Book](https://codeberg.org/jozo/prayer-book) - Aplicativo móvel com orações católicas.
 - [Rosarium](https://codeberg.org/Krixec/Rosarium) - Aplicativo de rosário multilíngue.
+- [Confessa-te](https://apps.apple.com/pt/app/confessa-te/id6757074474) - Aplicativo iOS multilíngue para ajudar os católicos a se prepararem para o sacramento da Confissão.
+- [Missas Portugal](https://apps.apple.com/pt/app/missas-portugal/id6754783103) - Aplicativo iOS gratuito para horários de missas católicas em Portugal.
 
 ## Neovim-Plugin
 
@@ -121,6 +123,9 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Site da Igreja de São Carlos catalogando os milagres eucarísticos do mundo.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Site da Catedral de São Carlos sobre aparições marianas reconhecidas pela Igreja Católica.
 - [biblos.app](https://github.com/dssjon/biblos) - Pesquisa semântica e análise multicamadas da Bíblia. Demo em https://www.biblos.app.
+- [Confessate](https://confessate.pt) - Um recurso para ajudar os fiéis a se prepararem e encontrarem o sacramento da Confissão.
+- [Documentos Católicos Fundamentais](https://documentos-catolicos-fundamentais.pt) - Uma coleção de documentos católicos fundamentais (português).
+- [HorariosMissas](https://horariosmissas.pt) - Um diretório gratuito e sem anúncios de horários de missas católicas para paróquias em Portugal e suas ilhas.
 
 ## Outras listas relacionadas
 

@@ -84,6 +84,8 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Mariam](https://github.com/aldrinzigmundv/mariam) - Medytacyjna aplikacja różańcowa, która umożliwia wierzącym odmawianie różańca.
 - [Prayer Book](https://codeberg.org/jozo/prayer-book) - Aplikacja mobilna z modlitwami katolickimi.
 - [Rosarium](https://codeberg.org/Krixec/Rosarium) - Wielojęzyczna aplikacja różańcowa.
+- [Confessa-te](https://apps.apple.com/pt/app/confessa-te/id6757074474) - Wielojęzyczna aplikacja na iOS pomagająca katolikom przygotować się do sakramentu spowiedzi.
+- [Missas Portugal](https://apps.apple.com/pt/app/missas-portugal/id6754783103) - Darmowa aplikacja na iOS z godzinami Mszy Świętych w Portugalii.
 
 ## Neovim-Plugin
 
@@ -121,6 +123,9 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - Strona internetowa kościoła św. Karola katalogująca cuda eucharystyczne na świecie.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - Strona internetowa kościoła św. Karola poświęcona objawieniom maryjnym uznanym przez Kościół katolicki.
 - [biblos.app](https://github.com/dssjon/biblos) - Semantic Bible Search and Multi-Layered Analysis. Demo at https://www.biblos.app.
+- [Confessate](https://confessate.pt) - Zasób pomagający wiernym przygotować się do sakramentu spowiedzi i znaleźć miejsce jego sprawowania.
+- [Documentos Católicos Fundamentais](https://documentos-catolicos-fundamentais.pt) - Zbiór podstawowych dokumentów katolickich (w języku portugalskim).
+- [HorariosMissas](https://horariosmissas.pt) - Darmowy, wolny od reklam katalog godzin Mszy Świętych w parafiach w Portugalii i na jej wyspach.
 
 ## Powiązane niesamowite listy
 
