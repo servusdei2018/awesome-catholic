@@ -84,6 +84,8 @@ A curated list of awesome Catholic projects, libraries and software.
 - [Mariam](https://github.com/aldrinzigmundv/mariam) - Meditative rosary app that enables believers to pray the Rosary.
 - [Prayer Book](https://codeberg.org/jozo/prayer-book) - Mobile app with catholic prayers.
 - [Rosarium](https://codeberg.org/Krixec/Rosarium) - Multilingual rosary app.
+- [Confessa-te](https://apps.apple.com/pt/app/confessa-te/id6757074474) - Multilingual iOS app to help Catholics prepare for the sacrament of Confession.
+- [Missas Portugal](https://apps.apple.com/pt/app/missas-portugal/id6754783103) - Free iOS app for Catholic Mass times across Portugal.
 
 ## Neovim-Plugins
 
@@ -121,6 +123,9 @@ A curated list of awesome Catholic projects, libraries and software.
 - [Eucharistic Miracles List](https://www.miracolieucaristici.org/en/Liste/list.html) - St. Carlo's website cataloguing the world's Eucharistic miracles.
 - [Apparitions of Our Lady](https://www.carloacutis.com/en/avm/home) - St. Carlo's website of Marian apparitions recognized by the Catholic Church.
 - [biblos.app](https://github.com/dssjon/biblos) - Semantic Bible Search and Multi-Layered Analysis. Demo at https://www.biblos.app.
+- [Confessate](https://confessate.pt) - A resource to help the faithful prepare for and find the sacrament of Confession.
+- [Documentos Católicos Fundamentais](https://documentos-catolicos-fundamentais.pt) - A collection of fundamental Catholic documents (Portuguese).
+- [HorariosMissas](https://horariosmissas.pt) - A free, ad-free directory of Catholic Mass times for parishes across Portugal and its islands.
 
 ## Related-Awesome-Lists
 
