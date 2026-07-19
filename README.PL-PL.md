@@ -35,6 +35,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) - Pomóż ludziom pokonać ich problemy za pomocą motywujących fraz katolickich i świeckich.
 - [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API umożliwiające dostęp do wersetów z Wulgaty Sisto-Clementina przetłumaczonych przez księdza Matosa Soaresa na język portugalski.
 - [caminho-api](https://github.com/ElderFausto/caminho-api) - Publiczne API, zbudowane w Pythonie i FastAPI, które obsługuje 999 punktów książki "Droga" św. Josemarii Escrivá w języku portugalskim.
+- [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) - API do codziennych katolickich refleksji ewangelicznych w języku niemieckim, angielskim i polskim, generowanych za pomocą GitHub Actions i Magisterium AI.
 
 ## Aplikacje
 
