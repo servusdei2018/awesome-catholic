@@ -36,6 +36,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API para acceder a versos de la Vulgata Sixto-Clementina traducidas por el Padre Matos Soares al portugués.
 - [caminho-api](https://github.com/ElderFausto/caminho-api) - Una API pública, construida con Python y FastAPI, que sirve los 999 puntos del libro "Camino" de San Josemaría Escrivá en portugués.
 - [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) - API para reflexiones diarias del Evangelio católico en alemán, inglés y polaco, generadas mediante GitHub Actions y Magisterium AI.
+- [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) - API REST integral que proporciona acceso a una amplia colección de oraciones católicas tradicionales, devociones y recursos litúrgicos.
 
 ## Aplicaciones
 
