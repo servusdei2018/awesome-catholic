@@ -54,6 +54,7 @@ A curated list of awesome Catholic projects, libraries and software.
 - [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Side by side translation of the Latin Vulgate and the Douay Rheims bible.
 - [christian-fortune](https://github.com/ngorden/christian-fortune) - Classic `fortune` command, with a Christian twist.
 - [tandem](https://github.com/teamdei/tandem) - Fast, cross-platform, lightweight interactive Latin reader.
+- [avemarie](https://github.com/oodler577/p5-Webservice-Rosary-API) - Daily Rosary command line client, distributed as part of the [Webservice::Rosary::API](https://metacpan.org/pod/Webservice::Rosary::API) Perl module.
 
 ## Data
 
