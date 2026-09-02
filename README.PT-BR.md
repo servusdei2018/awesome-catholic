@@ -54,6 +54,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 - [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Tradução da vulgata latina e da bíblia de Douay Reims.
 - [christian-fortune](https://github.com/ngorden/christian-fortune) - Comando clássico de `fortune`, com um toque cristão.
 - [tandem](https://github.com/teamdei/tandem) - Leitor de latim interativo, rápido, multiplataforma e leve.
+- [avemarie](https://github.com/oodler577/p5-Webservice-Rosary-API) - Cliente de linha de comando para o Rosário diário, distribuído como parte do módulo Perl [Webservice::Rosary::API](https://metacpan.org/pod/Webservice::Rosary::API).
 
 ## Dados
 

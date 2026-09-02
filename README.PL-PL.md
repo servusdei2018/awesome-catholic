@@ -54,6 +54,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Równoległe tłumaczenie łacińskiej Wulgaty i Biblii Douay Rheims.
 - [christian-fortune](https://github.com/ngorden/christian-fortune) - Klasyczne polecenie "fortune" z chrześcijańskim akcentem.
 - [tandem](https://github.com/teamdei/tandem) - Szybki, wieloplatformowy, lekki, interaktywny czytnik tekstów łacińskich.
+- [avemarie](https://github.com/oodler577/p5-Webservice-Rosary-API) - Klient wiersza poleceń do codziennego Różańca, dystrybuowany jako część modułu Perl [Webservice::Rosary::API](https://metacpan.org/pod/Webservice::Rosary::API).
 
 ## Dane
 

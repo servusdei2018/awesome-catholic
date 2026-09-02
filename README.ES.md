@@ -54,6 +54,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [vul-dra](https://github.com/RaynardGerraldo/vul-dra/) - Traducción lado a lado de la Vulgata latina y la Biblia de Douay Reims.
 - [christian-fortune](https://github.com/ngorden/christian-fortune) - El clásico mandato de la «fortune» con un toque cristiano.
 - [tandem](https://github.com/teamdei/tandem) - Lector de latín interactivo, rápido, multiplataforma y ligero.
+- [avemarie](https://github.com/oodler577/p5-Webservice-Rosary-API) - Cliente de línea de comandos para el Rosario diario, distribuido como parte del módulo Perl [Webservice::Rosary::API](https://metacpan.org/pod/Webservice::Rosary::API).
 
 ## Datos
 
