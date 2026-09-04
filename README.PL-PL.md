@@ -129,6 +129,8 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Confessate](https://confessate.pt) - Zasób pomagający wiernym przygotować się do sakramentu spowiedzi i znaleźć miejsce jego sprawowania.
 - [Documentos Católicos Fundamentais](https://documentos-catolicos-fundamentais.pt) - Zbiór podstawowych dokumentów katolickich (w języku portugalskim).
 - [HorariosMissas](https://horariosmissas.pt) - Darmowy, wolny od reklam katalog godzin Mszy Świętych w parafiach w Portugalii i na jej wyspach.
+- [1954 Ordo](https://ordo.restorethe54.com) - Ordo zawierający codzienne święta kalendarza z 1954 roku, w tym kanały iCal. Zawiera również kanał iCal dni pokutnych.
+- [Little Office of the Blessed Virgin Mary](https://lobvm.com/) - Aplikacja internetowa z responsywną, przyjazną dla urządzeń mobilnych prezentacją LOBVM.
 
 ## Powiązane niesamowite listy
 

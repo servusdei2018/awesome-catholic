@@ -129,6 +129,8 @@ Uma lista de ótimos projetos, bibliotecas e softwares Católicos.
 - [Confessate](https://confessate.pt) - Um recurso para ajudar os fiéis a se prepararem e encontrarem o sacramento da Confissão.
 - [Documentos Católicos Fundamentais](https://documentos-catolicos-fundamentais.pt) - Uma coleção de documentos católicos fundamentais (português).
 - [HorariosMissas](https://horariosmissas.pt) - Um diretório gratuito e sem anúncios de horários de missas católicas para paróquias em Portugal e suas ilhas.
+- [1954 Ordo](https://ordo.restorethe54.com) - Um ordo com as festas diárias do calendário de 1954, incluindo feeds iCal. Também inclui um feed iCal de dias penitenciais.
+- [Little Office of the Blessed Virgin Mary](https://lobvm.com/) - Um aplicativo web com apresentação responsiva e compatível com dispositivos móveis do LOBVM.
 
 ## Outras listas relacionadas
 
