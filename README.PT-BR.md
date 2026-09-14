@@ -6,18 +6,17 @@ Uma lista de ótimos projetos, bibliotecas e softwares católicos.
 
 ## Conteúdo
 
-- [Ótimos Projetos Católicos ](#ótimos-projetos-católicos-)
-  - [Conteúdo](#conteúdo)
-  - [IA](#ia)
-  - [APIs](#apis)
-  - [Aplicativos](#aplicativos)
-  - [Linha de Comando](#linha-de-comando)
-  - [Dados](#dados)
-  - [Hardware](#hardware)
-  - [Aplicativos Mobile](#aplicativos-mobile)
-  - [Neovim-Plugin](#neovim-plugin)
-  - [Aplicações Web](#aplicações-web)
-  - [Outras listas relacionadas](#outras-listas-relacionadas)
+- [IA](#ia)
+- [APIs](#apis)
+- [Aplicativos](#aplicativos)
+- [Linha de Comando](#linha-de-comando)
+- [Dados](#dados)
+- [Hardware](#hardware)
+- [Aplicativos Mobile](#aplicativos-mobile)
+- [Neovim-Plugin](#neovim-plugin)
+- [Aplicações Web](#aplicações-web)
+- [Outras listas relacionadas](#outras-listas-relacionadas)
+
 
 ## IA
 
