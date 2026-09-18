@@ -68,6 +68,7 @@ A curated list of awesome Catholic projects, libraries and software.
 - [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Roman Catholic Liturgical Calendar Generator.
 - [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4.
 - [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
+- [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) - Open, versioned, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil (dioceses, provinces, CNBB regionals).
 - [focus-study](https://github.com/rvbcldud/focus-study) - A collection of FOCUS Bible studies in booklet format.
 - [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Baltimore Catechism No. 2 in JSON.
 - [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catechism of St. Pius X frontend.
