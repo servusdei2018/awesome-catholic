@@ -68,6 +68,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Generador de calendario litúrgico católico romano.
 - [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edición Vaticana de 1908 del Graduale Romanum, recomposición de la época de Gregorio 4.
 - [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - El Catecismo de la Iglesia Católica, el Derecho Canónico y la Instrucción General del Misal Romano en formato JSON utilizable.
+- [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) - Base de datos abierta, versionada y con procedencia por campo de la estructura eclesiástica de la Iglesia Católica en Brasil (diócesis, provincias, regionales de la CNBB).
 - [focus-study](https://github.com/rvbcldud/focus-study) - Una colección de estudios bíblicos de FOCUS en formato de folleto.
 - [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore n.° 2 en JSON.
 - [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Catecismo de San Pío X en JSON.

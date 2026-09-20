@@ -17,7 +17,6 @@ Uma lista de ótimos projetos, bibliotecas e softwares católicos.
 - [Aplicações Web](#aplicações-web)
 - [Outras listas relacionadas](#outras-listas-relacionadas)
 
-
 ## IA
 
 - [london-confessions](https://github.com/sf17490/london-confessions) - Um aplicativo web que lista os horários de confissão em igrejas católicas romanas no centro de Londres (Zona 1). Atualizado semanalmente por inteligência artificial.
@@ -69,6 +68,7 @@ Uma lista de ótimos projetos, bibliotecas e softwares católicos.
 - [roman calendar](https://github.com/jayarathina/Roman-Calendar) - Gerador de Calendário Católico Romano.
 - [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) - Edição de 1904 do Vaticano Graduale Romanum redigitada em Gregorio 4.
 - [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) - O Catecismo da Igreja Católica, Código de Direito Canônico e a Instrução Geral do Missal Romano em formato JSON.
+- [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) - Base de dados aberta, versionada e com proveniência por campo da estrutura eclesiástica da Igreja Católica no Brasil (dioceses, províncias, regionais da CNBB).
 - [focus-study](https://github.com/rvbcldud/focus-study) - Uma coleção de estudos bíblicos FOCUS em formato de livreto.
 - [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) - Catecismo de Baltimore nº 2 em JSON.
 - [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) - Frontend do Catecismo de São Pio X.
@@ -138,4 +138,3 @@ Uma lista de ótimos projetos, bibliotecas e softwares católicos.
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - Uma lista selecionada de recursos incríveis e websites sobre a Bíblia e tópicos relacionados a ela.
 - [Awesome Theology](https://github.com/historical-theology/awesome-theology) - Uma lista selecionada de software de código aberto para teologia católica.
 - [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) - Lista de software relacionado a cálculos do calendário litúrgico.
-
