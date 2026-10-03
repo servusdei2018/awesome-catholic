@@ -108,6 +108,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) - Postępowa aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać różaniec. Demo na https://prayrosary.netlify.app/.
 - [Oficjum](https://github.com/anna-wro/rkk) - Progresywna aplikacja internetowa udostępniająca codzienne teksty liturgiczne do Liturgii Godzin. Demo na https://oficjum.starokatolicy.eu/.
 - [Rosarium](https://github.com/leozamboni/Rosarium) - Aplikacja internetowa zaprojektowana, aby pomóc katolikom odmawiać Różaniec Święty po łacinie w interaktywny i wciągający sposób poprzez modele 3D kościołów katolickich wygenerowane za pomocą fotogrametrii. Demo: https://leozamboni.github.io/Rosarium/.
+- [Catholic Circle](https://catholiccircle.org) - Darmowa mapa godzin Mszy Świętej, spowiedzi i adoracji we wszystkich parafiach katolickich na Florydzie, w języku angielskim i hiszpańskim.
 - [Rezo de los Mil Jesús](https://github.com/emamut/rezo-mil-jesus) - Aplikacja internetowa pomagająca w nabożeństwie Los Mil Jesús.
 - [Domus](https://github.com/leozamboni/Domus) - Aplikacja internetowa przeznaczona do odwiedzania Kościołów na całym świecie poprzez modele 3D generowane metodą fotogrametrii. Demo: https://leozamboni.github.io/Domus/.
 - [Missale Meum](https://github.com/mmolenda/missalemeum) - Mszał rzymskokatolicki z 1962 r. do tradycyjnej mszy łacińskiej.
