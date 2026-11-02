@@ -14,6 +14,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 - [Sprzęt komputerowy](#sprzęt-komputerowy)
 - [Aplikacje mobilne](#aplikacje-mobilne)
 - [Neovim-Plugin](#neovim-plugin)
+- [Motywy](#motywy)
 - [Internetowe aplikacje](#internetowe-aplikacje)
 - [Powiązane niesamowite listy](#powiązane-niesamowite-listy)
 
@@ -94,6 +95,10 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 ## Neovim-Plugin
 
 - [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - Wtyczka Neovim do ćwiczenia lectio divina.
+
+## Motywy
+
+- [omarchy-rosary-theme](https://github.com/whelanh/omarchy-rosary-theme) - Motyw sztuki sakralnej dla środowiska Omarchy zawierający 20 obrazów z domeny publicznej, które zmieniają się codziennie zgodnie z tajemnicami Różańca.
 
 ## Internetowe aplikacje
 

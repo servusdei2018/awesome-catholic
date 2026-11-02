@@ -14,6 +14,7 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 - [Hardware](#hardware)
 - [Aplicaciones-móviles](#aplicaciones-móviles)
 - [Neovim-Plugins](#neovim-plugins)
+- [Temas](#temas)
 - [Aplicaciones-web](#aplicaciones-web)
 - [Listas-Relacionadas](#listas-relacionadas)
 
@@ -95,6 +96,10 @@ Una lista curada de increíbles proyectos católicos, bibliotecas y software.
 ## Neovim-Plugins
 
 - [Lectio.nvim](https://github.com/ngorden/lectio.nvim) - Un plugin de Neovim para practicar lectio divina.
+
+## Temas
+
+- [omarchy-rosary-theme](https://github.com/whelanh/omarchy-rosary-theme) - Tema de arte sacro para Omarchy con 20 pinturas de dominio público que rotan diariamente según los misterios del Rosario.
 
 ## Aplicaciones-web
 

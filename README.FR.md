@@ -14,6 +14,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 - [Matériel](#matériel)
 - [Application-Mobile](#application-mobile)
 - [Neovim-Plugin](#neovim-plugin)
+- [Thèmes](#thèmes)
 - [Web-Apps](#web-apps)
 - [Listes-Associées](#listes-associées)
 
@@ -94,6 +95,10 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 ## Neovim-Plugin
 
 - [lectio.nvim](https://github.com/ngorden/lectio.nvim) - Un Neovim plugin pour pratiquer la lectio divina.
+
+## Thèmes
+
+- [omarchy-rosary-theme](https://github.com/whelanh/omarchy-rosary-theme) - Thème d'art sacré pour Omarchy comprenant 20 peintures du domaine public qui changent quotidiennement selon les mystères du Rosaire.
 
 ## Web-Apps
 
