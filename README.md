@@ -61,6 +61,7 @@ A curated list of awesome Catholic projects, libraries and software.
 ## Data
 
 - [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - The full works of St. Thomas Aquinas.
+- [bible-data](https://github.com/christianpure/bible-data) - Open data with 378 saints and their Western and Orthodox feast days, Easter dates from 1900 to 2099, and Bible places in 11 languages, as CSV and JSON.
 - [romanus](https://github.com/borderstech/romanus) - The entire Roman Catechism of the Council of Trent.
 - [vulgata](https://github.com/borderstech/vulgata) - The Holy Bible with both the Douay-Rheims English and Clementina Vulgata Latin texts.
 - [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - The Catechism of the Catholic Chruch in JSON.
