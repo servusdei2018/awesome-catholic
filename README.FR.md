@@ -61,6 +61,7 @@ Une liste organisée de superbes projets, bibliothèques et logiciels catholique
 ## Les-Données
 
 - [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Les oeuvres complètes de Saint Thomas d'Aquin.
+- [bible-data](https://github.com/christianpure/bible-data) - Données ouvertes avec 378 saints et leurs fêtes occidentales et orthodoxes, les dates de Pâques de 1900 à 2099 et les lieux bibliques en 11 langues, au format CSV et JSON.
 - [romanus](https://github.com/borderstech/romanus) - Tout le catéchisme romain du concile de Trente.
 - [vulgata](https://github.com/borderstech/vulgata) - La Sainte Bible avec les textes anglais Douay-Reims et Clementina Vulgata latine.
 - [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - Le Catéchisme de l'Église catholique en JSON.

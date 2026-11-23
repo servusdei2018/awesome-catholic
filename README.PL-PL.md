@@ -61,6 +61,7 @@ Wyselekcjonowana lista niesamowitych katolickich projektów, bibliotek i oprogra
 ## Dane
 
 - [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Pełne dzieła św. Tomasza z Akwinu.
+- [bible-data](https://github.com/christianpure/bible-data) - Otwarte dane z 378 świętymi i ich zachodnimi i wschodnimi świętami, datami Wielkanocy od 1900 do 2099 oraz miejscami biblijnymi w 11 językach, w formacie CSV i JSON.
 - [romanus](https://github.com/borderstech/romanus) - Cały Katechizm Rzymski Soboru Trydenckiego.
 - [vulgata](https://github.com/borderstech/vulgata) - Biblia Święta z tekstami w języku angielskim Douay-Rheims i tekstami łacińskimi Clementina Vulgata.
 - [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) - Katechizm Kościoła Katolickiego w JSON.
