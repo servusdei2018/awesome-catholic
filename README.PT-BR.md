@@ -140,6 +140,9 @@ Uma lista de ótimos projetos, bibliotecas e softwares católicos.
 - [HorariosMissas](https://horariosmissas.pt) - Um diretório gratuito e sem anúncios de horários de Missas católicas para paróquias em Portugal e suas ilhas.
 - [1954 Ordo](https://ordo.restorethe54.com) - Um ordo com as festas diárias do calendário de 1954, incluindo feeds iCal. Também inclui um feed iCal de dias penitenciais.
 - [Little Office of the Blessed Virgin Mary](https://lobvm.com/) - Um aplicativo web com apresentação responsiva e compatível com dispositivos móveis do LOBVM.
+- [Fundamentals of Catholic Dogma by Ludwig Ott](https://github.com/christopherlam888/ott-fundamentals) - Site dos Fundamentos do Dogma Católico de Ludwig Ott.
+- [Meditations of St. Thomas Aquinas](https://github.com/christopherlam888/st-thomas-meditations) - Site das Meditações de São Tomás de Aquino, O.P. para Cada Dia, adaptadas do latim do Padre Mezard, O.P. pelo Padre E. C. McEniry, O.P.
+- [iBreviary Web Frontend](https://github.com/christopherlam888/ibreviary-frontend) - Interface web não oficial para o aplicativo iBreviary.
 
 ## Outras listas relacionadas
 
